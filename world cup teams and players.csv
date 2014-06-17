@@ -1,0 +1,989 @@
+"Team","FirstName","LastName","Nationality","DateOfBirth","Age","CountryOfBirth","PlaceOfBirth","Position","Height","Weight"
+"Brazil","J<U+00FA>lio C<U+00E9>sar","Soares de Esp<U+00ED>ndola","Brazil",1979-09-03,34,"Brazil","Rio de Janeiro","Goalkeeper",186,79
+"Brazil","Jefferson","de Oliviera Galv<U+00E3>o","Brazil",1983-01-02,31,"Brazil","S<U+00E3>o Vicente","Goalkeeper",188,80
+"Brazil","Victor Leandro","Bagy","Brazil",1983-01-21,31,"Brazil","Santo Anast<U+00E1>cio","Goalkeeper",193,84
+"Brazil","M<U+00E1>rcio Rafael","Ferreira de Souza","Brazil",1985-09-07,28,"Brazil","Londrina","Defender",172,68
+"Brazil","Daniel","Alves da Silva","Brazil",1983-05-06,31,"Brazil","Juazeiro","Defender",173,64
+"Brazil","Maxwell","Scherrer Cabelino Andrade","Brazil",1981-08-27,32,"Brazil","Cachoeiro de Itapermirim","Defender",176,73
+"Brazil","Maicon Douglas","Sisenando","Brazil",1981-07-26,32,"Brazil","Novo Hamburgo","Defender",184,77
+"Brazil","Thiago Emiliano","da Silva","Brazil",1984-09-22,29,"Brazil","Rio de Janeiro","Defender",183,79
+"Brazil","David Luiz","Moreira Marinho","Brazil",1987-04-22,27,"Brazil","Diadema","Defender",185,73
+"Brazil","Marcelo","Vieira da Silva J<U+00FA>nior","Brazil",1988-05-12,26,"Brazil","Rio de Janeiro","Defender",172,73
+"Brazil","Henrique Adriano","Buss","Brazil",1986-10-14,27,"Brazil","Marechal C<U+00E2>ndido R<U+00F4>ndon","Defender",190,73
+"Brazil","Dante Bonfim","da Costa Santos","Brazil",1983-10-18,30,"Brazil","Salvador","Defender",188,87
+"Brazil","Willian","Borges Da Silva","Brazil",1988-08-09,25,"Brazil","Ribeir<U+00E3>o Pires","Midfielder",174,72
+"Brazil","Anderson Hernanes","de Carvalho Andrade","Brazil",1985-05-29,29,"Brazil","Recife","Midfielder",180,76
+"Brazil","Ramires","Santos do Nascimento","Brazil",1987-03-24,27,"Brazil","Barra do Pira<U+00ED>","Midfielder",179,65
+"Brazil","Luiz Gustavo","Dias","Brazil",1987-07-23,26,"Brazil","Pindamonhangaba","Midfielder",187,80
+"Brazil","Fernando Luiz","Rosa","Brazil",1985-05-04,29,"Brazil","Londrina","Midfielder",176,67
+"Brazil","Jos<U+00E9> Paulo","Bezzera Maciel J<U+00FA>nior","Brazil",1988-07-25,25,"Brazil","S<U+00E3>o Paulo","Midfielder",182,71
+"Brazil","Oscar","dos Santos Emboaba J<U+00FA>nior","Brazil",1991-09-09,22,"Brazil","Americana","Midfielder",179,66
+"Brazil","Bernard ","An<U+00ED>cio Caldeira Duarte","Brazil",1992-09-08,21,"Brazil","Belo Horizonte","Midfielder",168,63
+"Brazil","Frederico","Chaves Guedes","Brazil",1983-10-03,30,"Brazil","Te<U+00F3>filo Otoni","Attacker",185,84
+"Brazil","Jo<U+00E3>o"," Alves de Assis Silva","Brazil",1987-03-20,27,"Brazil","S<U+00E3>o Paulo","Attacker",189,70
+"Brazil","Givanildo","Vieira de Souza","Brazil",1986-07-25,27,"Brazil","Campina Grande","Attacker",180,76
+"Brazil","Neymar","da Silva Santos Junior","Brazil",1992-02-05,22,"Brazil","Mogi das Cruzes","Attacker",174,60
+"Croatia","Stipe","Pletikosa","Croatia",1979-01-08,35,"Croatia","Split","Goalkeeper",193,83
+"Croatia","Danijel","Suba<U+0161>i<U+0107>","Croatia",1984-10-27,29,"Croatia","Zadar","Goalkeeper",191,85
+"Croatia","Oliver","Zelenika","Croatia",1993-05-14,21,"Croatia",NA,"Goalkeeper",NA,NA
+"Croatia","Darijo","Srna","Croatia",1982-05-01,32,"Croatia","Metkovic","Defender",182,78
+"Croatia","Vedran","<U+0106>orluka","Croatia",1986-02-05,28,"Bosnia and Herzegovina","Derventa","Defender",191,80
+"Croatia","Gordon","Schildenfeld","Croatia",1985-03-18,29,"Croatia","<U+0160>ibenik","Defender",191,91
+"Croatia","Domagoj","Vida","Croatia",1989-04-29,25,"Croatia","Osijek","Defender",182,70
+"Croatia","Ivan","Strini<U+0107>","Croatia",1987-07-17,26,"Croatia","Split","Defender",186,78
+"Croatia","Dejan","Lovren","Croatia",1989-07-05,24,"Bosnia and Herzegovina","Zenica","Defender",188,84
+"Croatia","<U+0160>ime","Vrsaljko","Croatia",1992-01-10,22,"Croatia","Zadar","Defender",180,75
+"Croatia","Igor","Bubnji<U+0107>","Croatia",1992-07-17,21,"Croatia","Split","Defender",188,NA
+"Croatia","Luka","Modri<U+0107>","Croatia",1985-09-09,28,"Croatia","Zadar","Midfielder",173,65
+"Croatia","Danijel","Pranji<U+0107>","Croatia",1981-12-02,32,"Croatia","Nasice","Midfielder",170,70
+"Croatia","Ivan","Rakiti<U+0107>","Croatia",1988-03-10,26,"Switzerland","Rheinfelden","Midfielder",184,80
+"Croatia","Ivan","Peri<U+0161>i<U+0107>","Croatia",1989-02-02,25,"Croatia","Split","Midfielder",187,74
+"Croatia","Jorge Sammir","Cruz Campos","Croatia",1987-04-23,27,"Brazil","Itabuna","Midfielder",178,77
+"Croatia","Ognjen","Vukojevi<U+0107>","Croatia",1983-12-20,30,"Croatia","Bjelovar","Midfielder",184,76
+"Croatia","Hrvoje","Mili<U+0107>","Croatia",1989-05-10,25,"Croatia","Osijek","Midfielder",183,74
+"Croatia","Mate","Male<U+0161>","Croatia",1989-03-11,25,"Croatia","Sibenik","Midfielder",186,76
+"Croatia","Marcelo","Brozovi<U+0107>","Croatia",1992-11-16,21,"Croatia",NA,"Midfielder",180,NA
+"Croatia","Mateo","Kova<U+010D>i<U+0107>","Croatia",1994-05-06,20,"Austria","Linz","Midfielder",181,75
+"Croatia","Ivan","Mo<U+010D>ini<U+0107>","Croatia",1993-04-30,21,"Croatia",NA,"Midfielder",NA,NA
+"Croatia","Mario","Pa<U+0161>ali<U+0107>","Croatia",1995-02-09,19,"Croatia",NA,"Midfielder",NA,NA
+"Croatia","Ivica","Oli<U+0107>","Croatia",1979-09-14,34,"Croatia","Davor","Attacker",182,85
+"Croatia","Eduardo","Alves da Silva","Croatia",1983-02-25,31,"Brazil","Rio de Janeiro","Attacker",180,73
+"Croatia","Nikica","Jelavi<U+0107>","Croatia",1985-08-27,28,"Bosnia and Herzegovina","Capljina","Attacker",188,88
+"Croatia","Mario","Mand<U+017E>uki<U+0107>","Croatia",1986-05-21,28,"Croatia","Slavonski Brod","Attacker",187,84
+"Croatia","Duje","<U+010C>op","Croatia",1990-02-01,24,"Croatia","Vinkovci","Attacker",184,73
+"Croatia","Ante","Rebi<U+0107>","Croatia",1993-09-23,20,"Croatia","Split","Attacker",182,80
+"Mexico","Alfredo","Talavera D<U+00ED>az","Mexico",1982-09-18,31,"Mexico","La Barca","Goalkeeper",188,82
+"Mexico","Mois<U+00E9>s Alberto","Mu<U+00F1><U+00F3>z Rodr<U+00ED>guez","Mexico",1980-02-01,34,"Mexico","Aguililla","Goalkeeper",185,82
+"Mexico","Jos<U+00E9> de Jes<U+00FA>s","Corona Rodr<U+00ED>guez","Mexico",1981-01-26,33,"Mexico","Guadalajara","Goalkeeper",184,84
+"Mexico","Francisco Guillermo","Ochoa Maga<U+00F1>a","Mexico",1985-07-13,28,"Mexico","Guadalajara","Goalkeeper",185,78
+"Mexico","Francisco Javier","Rodr<U+00ED>guez Pinedo","Mexico",1981-10-20,32,"Mexico","Mazatl<U+00E1>n","Defender",191,80
+"Mexico","Rafael","M<U+00E1>rquez <U+00C1>lvarez","Mexico",1979-02-13,35,"Mexico","Zamora, Michoac<U+00E1>n.","Defender",185,83
+"Mexico","Enrique","P<U+00E9>rez Herrera","Mexico",1988-10-13,25,"Mexico","Zinap<U+00E9>cuaro","Defender",168,67
+"Mexico","Juan Carlos","Valenzuela Hern<U+00E1>ndez","Mexico",1984-05-15,30,"Mexico","Guaymas","Defender",179,74
+"Mexico","Miguel Arturo","Lay<U+00FA>n Prado","Mexico",1988-06-25,25,"Mexico","C<U+00F3>rdoba","Defender",179,68
+"Mexico","Paul Nicol<U+00E1>s","Aguilar Rojas","Mexico",1986-03-06,28,"Mexico","Concordia","Defender",177,65
+"Mexico","Rogelio Alfredo","Chavez Mart<U+00ED>nez","Mexico",1984-10-28,29,"Mexico","Tula, Hidalgo. ","Defender",172,70
+"Mexico","Jos<U+00E9> Andr<U+00E9>s","Guardado Hern<U+00E1>ndez","Mexico",1986-09-28,27,"Mexico","Guadalajara","Defender",169,60
+"Mexico","Jorge Emmanuel","Torres Nilo","Mexico",1988-01-16,26,"Mexico","Tijuana","Defender",180,76
+"Mexico","H<U+00E9>ctor Alfredo","Moreno Herrera","Mexico",1988-01-17,26,"Mexico","Culiac<U+00E1>n","Defender",185,81
+"Mexico","Diego Antonio","Reyes Rosales","Mexico",1992-09-19,21,"Mexico","Ciudad de M<U+00E9>xico","Defender",189,68
+"Mexico","Luis Arturo","Montes Jim<U+00E9>nez","Mexico",1986-05-15,28,"Mexico","Cd. Ju<U+00E1>rez","Midfielder",166,66
+"Mexico","Miguel <U+00C1>ngel","Ponce Brise<U+00F1>o","Mexico",1989-04-12,25,"USA","Sacramento","Midfielder",176,80
+"Mexico","Jes<U+00FA>s Eduardo","Zavala Casta<U+00F1>eda","Mexico",1987-07-21,26,"Mexico","Monterrey","Midfielder",190,74
+"Mexico","Juan Carlos","Medina Alonso","Mexico",1983-08-22,30,"Mexico","Torre<U+00F3>n","Midfielder",170,71
+"Mexico","Carlos Alberto","Pe<U+00F1>a Rodr<U+00ED>guez","Mexico",1990-03-29,24,"Mexico","Ciudad Victoria","Midfielder",175,76
+"Mexico","Carlos Arnoldo","Salcido Flores","Mexico",1980-04-02,34,"Mexico","Ocotl<U+00E1>n","Midfielder",176,75
+"Mexico","Javier Ignacio","Aquino Carmona","Mexico",1990-02-11,24,"Mexico","Oaxaca","Midfielder",168,59
+"Mexico","H<U+00E9>ctor Miguel","Herrera L<U+00F3>pez","Mexico",1990-04-19,24,"Mexico","Tijuana","Midfielder",180,74
+"Mexico","Jos<U+00E9> Juan","V<U+00E1>zquez G<U+00F3>mez ","Mexico",1988-03-14,26,"Mexico","Celaya","Midfielder",166,68
+"Mexico","Marco Jhonfai","Fabi<U+00E1>n De La Mora","Mexico",1989-07-21,24,"Mexico","Guadalajara","Attacker",171,70
+"Mexico","Alan","Pulido Izaguirre","Mexico",1991-03-08,23,"Mexico","Cd. Victoria, Tamaulipas.","Attacker",175,68
+"Mexico","Isa<U+00E1>c","Brizuela Mu<U+00F1><U+00F3>z","Mexico",1990-08-28,23,"Mexico","Lagos de Moreno","Attacker",173,68
+"Mexico","Ra<U+00FA>l Alonso","Jim<U+00E9>nez Rodr<U+00ED>guez","Mexico",1991-05-05,23,"Mexico","Tepeji del R<U+00ED>o Ocampo","Attacker",185,76
+"Mexico","Cuauht<U+00E9>moc","Blanco Bravo","Mexico",1973-01-17,41,"Mexico","M<U+00E9>xico D.F.","Attacker",177,70
+"Mexico","Oribe","Peralta Morones","Mexico",1984-01-12,30,"Mexico","Torre<U+00F3>n","Attacker",180,72
+"Mexico","Jes<U+00FA>s Aldo","de Nigris Guajardo","Mexico",1983-07-22,30,"Mexico","Monterrey","Attacker",181,85
+"Mexico","Giovani","dos Santos Ram<U+00ED>rez","Mexico",1989-05-11,25,"Mexico","Monterrey","Attacker",174,71
+"Mexico","Javier","Hern<U+00E1>ndez Balc<U+00E1>zar","Mexico",1988-06-01,26,"Mexico","Guadalajara","Attacker",175,62
+"Mexico","Rodolfo Gilbert","Pizarro Thomas","Mexico",1994-02-15,20,"Mexico","Tampico","Attacker",175,71
+"Cameroon","Charles-Hubert","Itandje","Cameroon",1982-11-02,31,"France","Bobigny","Goalkeeper",193,90
+"Cameroon","Guy Rolland","N'Dy Assemb<U+00E9>","Cameroon",1986-02-28,28,"Cameroon","Yaound<U+00E9>","Goalkeeper",185,79
+"Cameroon","Sammy","Ndjock","Cameroon",1990-02-25,24,"France","Yaounde","Goalkeeper",NA,NA
+"Cameroon","Lo<U+00EF>c Maxime","Feudjou Nguegang","Cameroon",1992-04-14,22,"Cameroon",NA,"Goalkeeper",182,NA
+"Cameroon","Beno<U+00EE>t","Assou-Ekotto","Cameroon",1984-03-24,30,"France","Arras","Defender",178,70
+"Cameroon","Aur<U+00E9>lien Bayard","Chedjou Fongang","Cameroon",1985-06-20,28,"Cameroon","Douala","Defender",184,86
+"Cameroon","Ga<U+00EB>tan","Bong Songo","Cameroon",1988-04-25,26,"Cameroon","Sakbayeme","Defender",183,74
+"Cameroon","Nicolas Alexis Julio","N'Koulou N'Doubena","Cameroon",1990-03-27,24,"Cameroon","Yaound<U+00E9>","Defender",180,77
+"Cameroon","Allan Romeo","Nyom","Cameroon",1988-05-10,26,"France","Neulli-sur-Seine","Defender",186,81
+"Cameroon","Henri","Bedimo Nsam<U+00E8>","Cameroon",1984-06-04,30,"Cameroon","Douala","Defender",180,80
+"Cameroon","Dany Achille","Nounkeu Tchounkeu","Cameroon",1986-04-11,28,"Cameroon","Yaound<U+00E9>","Defender",184,85
+"Cameroon","Jo<U+00EB>l Job","Matip","Cameroon",1991-08-08,22,"Germany","Bochum","Defender",193,88
+"Cameroon","Jean-Armel","Kana-Biyik","Cameroon",1989-07-03,24,"France","Metz","Defender",183,90
+"Cameroon","Macky Frank","Bagnack Mouegni","Cameroon",1995-06-07,19,"Cameroon","Yaound<U+00E9>","Defender",182,75
+"Cameroon","Cedric","Djeugoue","Cameroon",1992-08-28,21,"Cameroon",NA,"Defender",NA,NA
+"Cameroon","Landry Joel Tsafack","N'Gu<U+00E9>mo","Cameroon",1985-11-28,28,"Cameroon","Yaound<U+00E9>","Midfielder",173,70
+"Cameroon","St<U+00E9>phane","M'Bia Etoundi","Cameroon",1986-05-20,28,"Cameroon","Yaound<U+00E9>","Midfielder",189,82
+"Cameroon","Jean II","Makoun","Cameroon",1983-05-29,31,"Cameroon","Yaound<U+00E9>","Midfielder",173,69
+"Cameroon","Alexandre Dimitri","Song-Billong","Cameroon",1987-09-09,26,"Cameroon","Douala","Midfielder",180,76
+"Cameroon","Eyong Tarkang","Enoh","Cameroon",1986-03-23,28,"Cameroon","Kumba","Midfielder",182,70
+"Cameroon","Raoul C<U+00E9>dric","Lo<U+00E9>","Cameroon",1989-01-31,25,"France","Courbevoie","Midfielder",192,83
+"Cameroon","Samuel","Eto'o Fils","Cameroon",1981-03-10,33,"Cameroon","N'kon","Attacker",180,75
+"Cameroon","Pierre Achille","Web<U+00F3> Kouamo","Cameroon",1982-01-20,32,"Cameroon","Bafoussam","Attacker",180,78
+"Cameroon","Mohammadou","Idrissou","Cameroon",1980-03-08,34,"Cameroon","Yaound<U+00E9>","Attacker",191,85
+"Cameroon","Jean-Eric Maxim","Choupo-Moting","Cameroon",1989-03-23,25,"Germany","Hamburg","Attacker",190,84
+"Cameroon","Benjamin","Moukandjo Bil<U+00E9>","Cameroon",1988-11-12,25,"Cameroon","Douala","Attacker",180,74
+"Cameroon","Vincent Pat<U+00E9>","Aboubakar","Cameroon",1992-01-22,22,"Cameroon","Garoua","Attacker",178,78
+"Cameroon","Edgard Nicaise Constant","Salli","Cameroon",1992-08-17,21,"Cameroon","Garoua","Attacker",163,NA
+"Cameroon","Jean Marie","Dongou Tsafack","Cameroon",1995-04-20,19,"Cameroon","Douala","Attacker",173,78
+"Cameroon","Fabrice","Olinga Essono","Cameroon",1996-05-12,18,"Cameroon","Douala","Attacker",172,66
+"Spain","Iker","Casillas Fern<U+00E1>ndez","Spain",1981-05-20,33,"Spain","M<U+00F3>stoles","Goalkeeper",182,86
+"Spain","Jos<U+00E9> Manuel ","Reina P<U+00E1>ez","Spain",1982-08-31,31,"Spain","Madrid","Goalkeeper",188,92
+"Spain","V<U+00ED>ctor","Vald<U+00E9>s Arribas","Spain",1982-01-14,32,"Spain","L'Hospitalet de Llobregat","Goalkeeper",183,78
+"Spain","David","De Gea Quintana","Spain",1990-11-07,23,"Spain","Madrid","Goalkeeper",192,82
+"Spain","Sergio","Ramos Garc<U+00ED>a","Spain",1986-03-30,28,"Spain","Sevilla","Defender",183,81
+"Spain","Juan Francisco","Torres Bel<U+00E9>n","Spain",1985-01-09,29,"Spain","Crevillente","Defender",181,72
+"Spain","Ra<U+00FA>l","Albiol Tortajada","Spain",1985-09-04,28,"Spain","Villamarchante","Defender",190,82
+"Spain","Gerard","Piqu<U+00E9> Bernab<U+00E9>u","Spain",1987-02-02,27,"Spain","Barcelona","Defender",192,85
+"Spain","C<U+00E9>sar","Azpilicueta Tanco","Spain",1989-08-28,24,"Spain","Pamplona","Defender",178,70
+"Spain","Jordi","Alba Ramos","Spain",1989-03-21,25,"Spain","L'Hospitalet de Llobregat","Defender",172,69
+"Spain","Alberto","Moreno P<U+00E9>rez","Spain",1992-07-05,21,"Spain","Sevilla","Defender",171,65
+"Spain","Francesc","F<U+00E0>bregas i Soler","Spain",1987-05-04,27,"Spain","Vilassar de Mar","Midfielder",180,69
+"Spain","Andr<U+00E9>s","Iniesta Luj<U+00E1>n","Spain",1984-05-11,30,"Spain","Albacete","Midfielder",170,65
+"Spain","Xabier ","Alonso Olana","Spain",1981-11-25,32,"Spain","Tolosa","Midfielder",183,79
+"Spain","Xavier","Hern<U+00E1>ndez Creus","Spain",1980-01-25,34,"Spain","Terrassa","Midfielder",170,68
+"Spain","David Josu<U+00E9>","Jim<U+00E9>nez Silva","Spain",1986-01-08,28,"Spain","Arguinegu<U+00ED>n","Midfielder",170,67
+"Spain","Javier","Mart<U+00ED>nez Aginaga","Spain",1988-09-02,25,"Spain","Estella","Midfielder",190,81
+"Spain","Jes<U+00FA>s","Navas Gonz<U+00E1>lez","Spain",1985-11-21,28,"Spain","Los Palacios","Midfielder",170,60
+"Spain","Santiago","Cazorla Gonz<U+00E1>lez","Spain",1984-12-13,29,"Spain","Lugo de Llanera","Midfielder",168,66
+"Spain","Sergio","Busquets i Burgos","Spain",1988-07-16,25,"Spain","Sabadell","Midfielder",189,73
+"Spain","Ander","Iturraspe Derteano","Spain",1989-03-08,25,"Spain","Abadino","Midfielder",187,74
+"Spain","Thiago","Alc<U+00E2>ntara do Nascimiento","Spain",1991-04-11,23,"Italy","San Pietro Vernotico","Midfielder",172,70
+"Spain","Jorge","Resurreci<U+00F3>n Merodio","Spain",1992-01-08,22,"Spain","Madrid","Midfielder",178,73
+"Spain","Fernando Jos<U+00E9>","Torres Sanz","Spain",1984-03-20,30,"Spain","Fuenlabrada","Attacker",185,78
+"Spain","<U+00C1>lvaro","Negredo S<U+00E1>nchez","Spain",1985-08-20,28,"Spain","Madrid","Attacker",186,85
+"Spain","Juan Manuel","Mata Garc<U+00ED>a","Spain",1988-04-28,26,"Spain","Burgos","Attacker",170,63
+"Spain","Diego","Da Silva Costa","Spain",1988-10-07,25,"Brazil","Lagarto","Attacker",186,78
+"Spain","Pedro Eliezer","Rodr<U+00ED>guez Ledesma","Spain",1987-07-28,26,"Spain","Santa Cruz de Tenerife","Attacker",169,64
+"Spain","Gerard","Deulofeu L<U+00E1>zaro","Spain",1994-03-13,20,"Spain","Riudarenes","Attacker",179,NA
+"Netherlands","Michel","Vorm","Netherlands",1983-10-20,30,"Netherlands","Nieuwegein","Goalkeeper",183,84
+"Netherlands","Tim","Krul","Netherlands",1988-04-03,26,"Netherlands","Den Haag","Goalkeeper",188,75
+"Netherlands","Jeroen","Zoet","Netherlands",1991-01-06,23,"Netherlands","Veendam","Goalkeeper",186,NA
+"Netherlands","Jasper","Cillessen","Netherlands",1989-04-22,25,"Netherlands","Groesbeek","Goalkeeper",187,82
+"Netherlands","Paul","Verhaegh","Netherlands",1983-09-01,30,"Netherlands","Kronenberg","Defender",178,72
+"Netherlands","Ron","Vlaar","Netherlands",1985-02-16,29,"Netherlands","Hensbroek","Defender",189,80
+"Netherlands","Gregory","van der Wiel","Netherlands",1988-02-03,26,"Netherlands","Amsterdam","Defender",181,68
+"Netherlands","Daryl","Janmaat","Netherlands",1989-07-22,24,"Netherlands","Leidschendam","Defender",185,80
+"Netherlands","Daley","Blind","Netherlands",1990-03-09,24,"Netherlands","Amsterdam","Defender",182,68
+"Netherlands","Patrick ","van Aanholt","Netherlands",1990-08-29,23,"Netherlands","'s-Hertogenbosch","Defender",175,NA
+"Netherlands","Jo<U+00EB>l","Veltman","Netherlands",1992-01-15,22,"Netherlands","Velsen","Defender",182,NA
+"Netherlands","Stefan","de Vrij","Netherlands",1992-02-05,22,"Netherlands","Ouderkerk aan den IJssel","Defender",188,78
+"Netherlands","Bruno","Martins Indi","Netherlands",1992-02-08,22,"Portugal","Barreiro","Defender",185,76
+"Netherlands","Karim","Rekik","Netherlands",1994-12-02,19,"Netherlands","Den Haag","Defender",184,NA
+"Netherlands","Terence","Kongolo","Netherlands",1994-02-14,20,"Switzerland","Fribourg","Defender",183,70
+"Netherlands","Arjen","Robben","Netherlands",1984-01-23,30,"Netherlands","Bedum","Midfielder",180,80
+"Netherlands","Wesley","Sneijder","Netherlands",1984-06-09,29,"Netherlands","Utrecht","Midfielder",170,67
+"Netherlands","Nigel","de Jong","Netherlands",1984-11-30,29,"Netherlands","Amsterdam","Midfielder",174,72
+"Netherlands","Stijn","Schaars","Netherlands",1984-01-11,30,"Netherlands","Gendt","Midfielder",178,75
+"Netherlands","Jonathan ","de Guzm<U+00E1>n","Netherlands",1987-09-13,26,"Canada","Scarborough","Midfielder",174,61
+"Netherlands","Siem","de Jong","Netherlands",1989-01-28,25,"Switzerland","Aigle","Midfielder",185,76
+"Netherlands","Leroy","Fer","Netherlands",1990-01-05,24,"Netherlands","Zoetermeer","Midfielder",188,79
+"Netherlands","Kevin","Strootman","Netherlands",1990-02-13,24,"Netherlands","Ridderkerk","Midfielder",186,77
+"Netherlands","Jordy","Clasie","Netherlands",1991-06-27,22,"Netherlands","Haarlem","Midfielder",169,68
+"Netherlands","Davy","Klaassen","Netherlands",1993-02-21,21,"Netherlands","Hilversum","Midfielder",185,NA
+"Netherlands","Quincy","Promes","Netherlands",1992-01-04,22,"Netherlands","Amsterdam","Midfielder",174,NA
+"Netherlands","Dirk","Kuijt","Netherlands",1980-07-22,33,"Netherlands","Katwijk","Attacker",184,83
+"Netherlands","Robin","van Persie","Netherlands",1983-08-06,30,"Netherlands","Rotterdam","Attacker",184,71
+"Netherlands","Klaas-Jan","Huntelaar","Netherlands",1983-08-12,30,"Netherlands","Drempt","Attacker",186,78
+"Netherlands","Jeremain","Lens","Netherlands",1987-11-24,26,"Netherlands","Amsterdam","Attacker",178,80
+"Netherlands","Georginio","Wijnaldum","Netherlands",1990-11-11,23,"Netherlands","Rotterdam","Attacker",178,68
+"Netherlands","Jean-Paul","Bo<U+00EB>tius","Netherlands",1994-03-22,20,"Netherlands","Rotterdam","Attacker",178,67
+"Netherlands","Memphis","Depay","Netherlands",1994-02-13,20,"Netherlands","Moordrecht","Attacker",176,NA
+"Chile","Claudio Andr<U+00E9>s","Bravo Mu<U+00F1>oz","Chile",1983-04-13,31,"Chile","Viluco","Goalkeeper",185,81
+"Chile","Cristopher Benjam<U+00ED>n","Toselli R<U+00ED>os","Chile",1988-06-15,25,"Chile","Antofagasta","Goalkeeper",183,75
+"Chile","Jhonny Cristi<U+00E1>n","Herrera Mu<U+00F1>oz","Chile",1981-05-09,33,"Chile","Nacimiento","Goalkeeper",184,85
+"Chile","Paulo Andr<U+00E9>s","Garc<U+00E9>s Contreras","Chile",1984-08-02,29,"Chile","Parral","Goalkeeper",182,72
+"Chile","Marcos Andr<U+00E9>s","Gonz<U+00E1>lez Salazar","Chile",1980-06-09,33,"Brazil","Rio De Janeiro","Defender",190,NA
+"Chile","Gonzalo Alejandro","Jara Reyes","Chile",1985-08-29,28,"Chile","Santiago de Chile","Defender",178,77
+"Chile","Osvaldo Alexis","Gonz<U+00E1>lez Sep<U+00FA>lveda","Chile",1984-08-10,29,"Chile","Concepci<U+00F3>n","Defender",182,NA
+"Chile","Jos<U+00E9> Manuel","Rojas Bahamondes","Chile",1983-06-23,30,"Chile","Talagante","Defender",176,77
+"Chile","Albert Alejandro","Acevedo Vergara","Chile",1983-05-06,31,"Chile","Santiago de Chile","Defender",176,77
+"Chile","Cristian Andr<U+00E9>s","<U+00C1>lvarez Valenzuela","Chile",1980-01-20,34,"Chile","Curic<U+00F3>","Defender",176,70
+"Chile","Miiko Mart<U+00ED>n","Albornoz Inola","Chile",1990-11-30,23,"Sweden","Stockholm","Defender",180,80
+"Chile","Eugenio Esteban","Mena Reveco","Chile",1988-07-18,25,"Chile","Vi<U+00F1>a del Mar","Defender",175,68
+"Chile","Enzo Pablo","And<U+00ED>a Roco","Chile",1992-08-16,21,"Chile","Ovalle","Defender",188,82
+"Chile","Mark Dennis","Gonz<U+00E1>lez Hoffmann","Chile",1984-07-10,29,"South Africa","Durban","Midfielder",176,74
+"Chile","Jorge Lu<U+00ED>s","Valdivia Toro","Chile",1983-10-19,30,"Venezuela","Maracaibo","Midfielder",173,71
+"Chile","Mat<U+00ED>as Ariel","Fern<U+00E1>ndez Fern<U+00E1>ndez","Chile",1986-05-15,28,"Argentina","Buenos Aires","Midfielder",178,72
+"Chile","Gonzalo Antonio","Fierro Caniull<U+00E1>n","Chile",1983-03-21,31,"Chile","Santiago de Chile","Midfielder",171,71
+"Chile","Arturo Erasmo","Vidal Pardo","Chile",1987-05-22,27,"Chile","Santiago de Chile","Midfielder",180,75
+"Chile","Mauricio An<U+00ED>bal","Isla Isla","Chile",1988-06-12,25,"Chile","Buin","Midfielder",177,72
+"Chile","Braulio Antonio","Leal Salvo","Chile",1981-11-22,32,"Chile","Santiago de Chile","Midfielder",173,64
+"Chile","Fabi<U+00E1>n Ariel","Orellana Valenzuela","Chile",1986-01-27,28,"Chile","Santiago de Chile","Midfielder",169,70
+"Chile","Marcelo Alfonso","Diaz Rojas","Chile",1986-12-30,27,"Chile","Santiago de Chile","Midfielder",166,67
+"Chile","Jos<U+00E9> Pedro","Fuenzalida Gana","Chile",1985-02-22,29,"Chile","Santiago de Chile","Midfielder",170,73
+"Chile","Gary Alexis","Medel Soto","Chile",1987-08-03,26,"Chile","Santiago","Midfielder",172,74
+"Chile","Francisco Andr<U+00E9>s","Silva Gajardo","Chile",1986-02-11,28,"Chile","Quillota","Midfielder",178,80
+"Chile","Fernando Patricio","Cordero Fonseca","Chile",1987-08-26,26,"Chile","Santiago de Chile","Midfielder",172,NA
+"Chile","Charles Mariano","Ar<U+00E1>nguiz Sandoval","Chile",1989-04-17,25,"Chile","Santiago de Chile","Midfielder",172,70
+"Chile","Fernando Andr<U+00E9>s","Meneses Cornejo","Chile",1985-08-27,28,"Chile","Lontu<U+00E9>","Midfielder",174,NA
+"Chile","Jean Andr<U+00E9> Emanuel","Beausejour Coliqueo","Chile",1984-06-01,30,"Chile","Santiago de Chile","Midfielder",178,81
+"Chile","Carlos Emilio","Carmona Tello","Chile",1987-02-21,27,"Chile","Coquimbo","Midfielder",178,68
+"Chile","Rodrigo Javier","Millar Carvajal","Chile",1981-11-03,32,"Chile","Arauco","Midfielder",183,75
+"Chile","Pedro Pablo","Hern<U+00E1>ndez","Chile",1986-10-24,27,"Argentina","San Miguel de Tucum<U+00E1>n","Midfielder",185,82
+"Chile","Esteban","Pavez Suazo","Chile",1990-05-01,24,"Chile","Santiago de Chile","Midfielder",NA,NA
+"Chile","Felipe Alejandro","Guti<U+00E9>rrez Leiva","Chile",1990-10-08,23,"Chile","Quintero","Midfielder",170,NA
+"Chile","Gonzalo Felipe","Barriga Ahumada","Chile",1984-07-21,29,"Chile",NA,"Midfielder",175,74
+"Chile","C<U+00E9>sar Nicol<U+00E1>s","Fuentes Gonz<U+00E1>lez","Chile",1993-04-12,21,"Chile","Rancagua","Midfielder",170,74
+"Chile","Mauricio Ricardo","Pinilla Ferreira","Chile",1984-02-04,30,"Chile","San Bernardo","Attacker",185,75
+"Chile","Alexis Alejandro","S<U+00E1>nchez S<U+00E1>nchez","Chile",1988-12-19,25,"Chile","Tocopilla","Attacker",170,62
+"Chile","Eduardo Jes<U+00FA>s","Vargas Rojas","Chile",1989-11-20,24,"Chile","Santiago de Chile","Attacker",175,70
+"Chile","Esteban Efra<U+00ED>n","Paredes Quintanilla","Chile",1980-08-01,33,"Chile","Santiago de Chile","Attacker",176,78
+"Chile","Carlos Andr<U+00E9>s","Mu<U+00F1>oz Rojas","Chile",1989-04-21,25,"Chile","Valparaiso","Attacker",173,NA
+"Chile","Ruben Ignacio","Farfan Arancibia","Chile",1991-09-25,22,"Chile","Valpara<U+00ED>so","Attacker",NA,NA
+"Australia","Brad","Jones","Australia",1982-03-19,32,"Australia","Armadale","Goalkeeper",191,76
+"Australia","Eugene","Galekovi<U+0107>","Australia",1981-06-12,32,"Australia","Melbourne","Goalkeeper",186,91
+"Australia","Mitchell","Langerak","Australia",1988-08-22,25,"Australia","Emerald","Goalkeeper",193,83
+"Australia","Mathew","Ryan","Australia",1992-04-08,22,"Australia","Plumpton","Goalkeeper",181,73
+"Australia","Luke","Wilkshire","Australia",1981-10-02,32,"Australia","Wollongong","Defender",175,72
+"Australia","Matthew","<U+0160>piranovi<U+0107>","Australia",1988-06-27,25,"Australia","Geelong","Defender",193,88
+"Australia","Ryan","McGowan","Australia",1989-08-15,24,"Australia","Adelaide","Defender",188,75
+"Australia","Alex","Wilkinson","Australia",1984-08-13,29,"Australia","Sydney","Defender",187,85
+"Australia","Ivan","Franjic","Australia",1987-09-10,26,"Australia","Melbourne","Defender",180,77
+"Australia","Jason ","Davidson","Australia",1991-06-29,22,"Australia","Melbourne","Defender",180,72
+"Australia","Bailey","Wright","Australia",1992-07-28,21,"Australia","Melbourne","Defender",175,85
+"Australia","Curtis","Good","Australia",1993-03-23,21,"Australia","Melbourne","Defender",187,NA
+"Australia","Mark","Bresciano","Australia",1980-02-11,34,"Australia","Melbourne","Midfielder",180,73
+"Australia","Tim","Cahill","Australia",1979-12-06,34,"Australia","Sydney","Midfielder",178,64
+"Australia","Brett ","Holman","Australia",1984-03-27,30,"Australia","Bankstown","Midfielder",177,75
+"Australia","Oliver","Bozanic","Australia",1989-01-08,25,"Australia","Sydney","Midfielder",175,71
+"Australia","Mark ","Milligan","Australia",1985-08-04,28,"Australia","Sydney","Midfielder",180,80
+"Australia","Dario","Vido<U+0161>i<U+0107>","Australia",1987-04-08,27,"Croatia","Osijek","Midfielder",185,75
+"Australia","Mile","Jedinak","Australia",1984-08-03,29,"Australia","Sydney","Midfielder",189,87
+"Australia","Matt","McKay","Australia",1983-01-11,31,"Australia","Brisbane","Midfielder",171,65
+"Australia","James","Holland","Australia",1989-05-15,25,"Australia","Sydney","Midfielder",182,76
+"Australia","Adam","Sarota","Australia",1988-12-28,25,"Australia","Gordonvale","Midfielder",182,72
+"Australia","Mathew","Leckie","Australia",1991-02-04,23,"Australia","Melbourne","Midfielder",181,84
+"Australia","Ben","Halloran","Australia",1992-06-14,21,"Australia","Cairns","Midfielder",180,73
+"Australia","Joshua","Brillante","Australia",1993-03-25,21,"Australia","Bundaberg","Midfielder",177,73
+"Australia","Massimo ","Luongo","Australia",1992-09-25,21,"Australia","Sydney","Midfielder",176,NA
+"Australia","Tom","Rogi<U+0107>","Australia",1992-12-16,21,"Australia","Griffith","Midfielder",188,80
+"Australia","Josh","Kennedy","Australia",1982-08-20,31,"Australia","Wodonga","Attacker",194,84
+"Australia","James","Troisi","Australia",1988-07-03,25,"Australia","Adelaide","Attacker",177,78
+"Australia","Tommy","Oar","Australia",1991-12-10,22,"Australia","Gold Coast","Attacker",170,64
+"Australia","Adam","Taggart","Australia",1993-06-02,21,"Australia","Perth","Attacker",183,69
+"Colombia","Faryd Camilo","Mondrag<U+00F3>n Aly","Colombia",1971-06-21,42,"Colombia","Cali","Goalkeeper",191,94
+"Colombia","David","Ospina Ram<U+00ED>rez","Colombia",1988-08-31,25,"Colombia","Medell<U+00ED>n","Goalkeeper",183,80
+"Colombia","Camilo Andr<U+00E9>s","Vargas Gil","Colombia",1989-03-09,25,"Colombia","Bogot<U+00E1>","Goalkeeper",185,87
+"Colombia","Mario Alberto","Yepes D<U+00ED>az","Colombia",1976-01-13,38,"Colombia","Cali","Defender",186,83
+"Colombia","Luis Amaranto","Perea Mosquera","Colombia",1979-01-30,35,"Colombia","Turbo, Antioquia","Defender",181,77
+"Colombia","Cristian Eduardo","Zapata Valencia","Colombia",1986-09-30,27,"Colombia","Padilla","Defender",187,82
+"Colombia","Pablo Est<U+00ED>fer","Armero","Colombia",1986-11-02,27,"Colombia","Tum<U+00E1>co","Defender",174,81
+"Colombia","Carlos Enrique","Vald<U+00E9>s Parra","Colombia",1985-05-22,29,"Colombia","Cali","Defender",185,80
+"Colombia","Santiago","Arias Naranjo","Colombia",1992-01-13,22,"Colombia","Medell<U+00ED>n","Defender",176,68
+"Colombia","Jhon Stefan","Medina Ram<U+00ED>rez","Colombia",1992-06-14,21,"Colombia","Envigado","Defender",179,71
+"Colombia","Eder Fabi<U+00E1>n","<U+00C1>lvarez Balanta","Colombia",1993-02-28,21,"Colombia","Bogot<U+00E1>","Defender",181,84
+"Colombia","Abel Enrique","Aguilar Tapia","Colombia",1985-01-06,29,"Colombia","Bogot<U+00E1>","Midfielder",185,82
+"Colombia","Juan Camilo","Z<U+00FA><U+00F1>iga Mosquera","Colombia",1985-12-14,28,"Colombia","Chigorod<U+00F3>","Midfielder",172,72
+"Colombia","Macnelly","Torres Berr<U+00ED>o","Colombia",1984-11-01,29,"Colombia","Barranquilla","Midfielder",170,72
+"Colombia","Carlos Alberto","S<U+00E1>nchez Moreno","Colombia",1986-02-06,28,"Colombia","Quibd<U+00F3>","Midfielder",182,82
+"Colombia","Edwin Armando","Valencia Rodr<U+00ED>guez","Colombia",1985-03-29,29,"Colombia","Florida","Midfielder",181,82
+"Colombia","Aldo Leao","Ram<U+00ED>rez Sierra","Colombia",1981-04-18,33,"Colombia","Santa Marta","Midfielder",174,76
+"Colombia","Alexander","Mej<U+00ED>a Sabalsa","Colombia",1988-07-11,25,"Colombia","Barranquilla","Midfielder",178,79
+"Colombia","Fredy Alejandro","Guar<U+00ED>n V<U+00E1>squez","Colombia",1986-06-30,27,"Colombia","Puerto Boyac<U+00E1>","Midfielder",183,77
+"Colombia","Juan Guillermo","Cuadrado Bello","Colombia",1988-05-26,26,"Colombia","Necocl<U+00ED>","Midfielder",176,66
+"Colombia","James David","Rodr<U+00ED>guez Rubio","Colombia",1991-07-12,22,"Colombia","C<U+00FA>cuta","Midfielder",180,77
+"Colombia","Te<U+00F3>filo Antonio","Guti<U+00E9>rrez Roncancio","Colombia",1985-05-17,29,"Colombia","Barranquilla","Attacker",178,83
+"Colombia","Gustavo Adri<U+00E1>n","Ramos V<U+00E1>squez","Colombia",1986-01-22,28,"Colombia","Santander de Quilichao","Attacker",185,74
+"Colombia","Jackson Arley","Mart<U+00ED>nez Valencia","Colombia",1986-10-03,27,"Colombia","Quibd<U+00F3>","Attacker",185,75
+"Colombia","Segundo V<U+00ED>ctor","Ibarbo Guerrero","Colombia",1990-05-19,24,"Colombia","Cali","Attacker",188,79
+"Colombia","Carlos Arturo","Bacca Ahumada","Colombia",1986-09-08,27,"Colombia","Puerto Colombia","Attacker",179,76
+"Colombia","Juan Fernando","Quintero Paniagua","Colombia",1993-01-18,21,"Colombia","Medell<U+00ED>n","Attacker",169,64
+"Colombia","Luis Fernando","Muriel Fruto","Colombia",1991-04-16,23,"Colombia","Santo Tom<U+00E1>s","Attacker",178,75
+"Greece","Panagiotis","Glykos","Greece",1986-10-10,27,"Greece",NA,"Goalkeeper",189,NA
+"Greece","Alexandros","Tzorvas","Greece",1982-08-12,31,"Greece","Athina","Goalkeeper",188,80
+"Greece","Orestis","Karnezis","Greece",1985-07-11,28,"Greece","Athina","Goalkeeper",189,79
+"Greece","Stefanos","Kapino","Greece",1994-03-18,20,"Greece",NA,"Goalkeeper",NA,NA
+"Greece","Jos<U+00E9>","Holebas","Greece",1984-06-27,29,"Germany","Aschaffenburg","Defender",184,79
+"Greece","Avraam","Papadopoulos","Greece",1984-12-03,29,"Australia","Melbourne","Defender",188,77
+"Greece","Vassilis","Torosidis","Greece",1985-06-10,28,"Greece","Xanthi","Defender",185,80
+"Greece","Loukas","Vyntra","Greece",1981-02-05,33,"Czech Republic","M<U+011B>sto Albrechtice","Defender",184,76
+"Greece","Vangelis","Moras","Greece",1981-08-26,32,"Greece","Larissa","Defender",193,78
+"Greece","Sokratis","Papastathopoulos","Greece",1988-06-09,25,"Greece","Kalamata","Defender",185,85
+"Greece","Georgios","Tzavellas","Greece",1987-11-26,26,"Greece","Vyronas","Defender",183,80
+"Greece","Konstantinos","Manolas","Greece",1991-06-14,22,"Greece","Athina","Defender",179,67
+"Greece","Giorgios","Karagounis","Greece",1977-03-06,37,"Greece","Pyrgos","Midfielder",176,74
+"Greece","Konstantinos","Katsouranis","Greece",1979-06-21,34,"Greece","Patras","Midfielder",183,81
+"Greece","Lazaros","Christodoulopoulos","Greece",1986-12-19,27,"Greece","Thessaloniki","Midfielder",183,77
+"Greece","Alexandros","Tziolis","Greece",1985-02-13,29,"Greece","Katerini","Midfielder",189,84
+"Greece","Panagiotis Giorgios","Kone","Greece",1987-07-26,26,"Albania","Tirana","Midfielder",182,74
+"Greece","Giannis","Maniatis","Greece",1986-10-12,27,"Greece","Livadeia","Midfielder",177,71
+"Greece","Panagiotis ","Tachtsidis ","Greece",1991-02-15,23,"Greece","Nafplio","Midfielder",190,86
+"Greece","Ioannis","Fetfatzidis","Greece",1990-12-21,23,"Greece","Athens","Midfielder",168,64
+"Greece","Andreas","Samaris","Greece",1989-06-13,24,"Greece",NA,"Midfielder",NA,NA
+"Greece","Georgios","Samaras","Greece",1985-02-21,29,"Greece","Heraklion","Attacker",193,82
+"Greece","Theofanis","Gekas","Greece",1980-05-23,34,"Greece","Larissa","Attacker",180,71
+"Greece","Konstantinos","Mitroglou","Greece",1988-03-12,26,"Greece","Kavala","Attacker",188,86
+"Greece","Dimitris","Salpingidis","Greece",1981-08-18,32,"Greece","Thessaloniki","Attacker",177,72
+"Greece","Dimitrios","Papadopoulos","Greece",1981-10-20,32,"Uzbekistan","Gagarin","Attacker",178,71
+"Uruguay","N<U+00E9>stor Fernando","Muslera Micol","Uruguay",1986-06-16,27,"Argentina","Buenos Aires","Goalkeeper",190,84
+"Uruguay","Mart<U+00ED>n Andr<U+00E9>s","Silva Leites","Uruguay",1983-03-25,31,"Uruguay","Montevideo","Goalkeeper",186,80
+"Uruguay","Rodrigo Mart<U+00ED>n","Mu<U+00F1>oz Salom<U+00F3>n","Uruguay",1982-01-22,32,"Uruguay","Montevideo","Goalkeeper",181,79
+"Uruguay","Diego Alfredo","Lugano Morena","Uruguay",1980-11-02,33,"Uruguay","Canelones","Defender",186,83
+"Uruguay","Jorge Ciro","Fucile Perdomo","Uruguay",1984-11-19,29,"Uruguay","Montevideo","Defender",177,73
+"Uruguay","Victorio Maximiliano","Pereira P<U+00E1>ez","Uruguay",1984-06-08,29,"Uruguay","Montevideo","Defender",173,73
+"Uruguay","Jos<U+00E9> Mart<U+00ED>n","C<U+00E1>ceres Silva","Uruguay",1987-04-07,27,"Uruguay","Montevideo","Defender",182,77
+"Uruguay","Diego Roberto","God<U+00ED>n Leal","Uruguay",1986-02-16,28,"Uruguay","Rosario","Defender",185,73
+"Uruguay","<U+00C1>lvaro Daniel","Pereira Barrag<U+00E1>n","Uruguay",1985-11-28,28,"Uruguay","Montevideo","Defender",180,78
+"Uruguay","Sebasti<U+00E1>n","Coates Ni<U+00F3>n","Uruguay",1990-10-07,23,"Uruguay","Montevideo","Defender",196,85
+"Uruguay","Jos<U+00E9> Mar<U+00ED>a","Gim<U+00E9>nez de Vargas","Uruguay",1995-01-20,19,"Uruguay","Toledo","Defender",185,80
+"Uruguay","Diego Fernando","P<U+00E9>rez Aguado","Uruguay",1980-05-18,34,"Uruguay","Montevideo","Midfielder",177,81
+"Uruguay","Sebasti<U+00E1>n","Eguren Ledesma","Uruguay",1981-01-08,33,"Uruguay","Montevideo","Midfielder",186,84
+"Uruguay","Cristian Gabriel","Rodr<U+00ED>guez Barrotti","Uruguay",1985-09-30,28,"Uruguay","Juan Lacaze","Midfielder",178,75
+"Uruguay","Walter Alejandro","Gargano Guevara","Uruguay",1984-07-27,29,"Uruguay","Paysand<U+00FA>","Midfielder",168,65
+"Uruguay","<U+00C1>lvaro Rafael","Gonz<U+00E1>lez Luengo","Uruguay",1984-10-29,29,"Uruguay","Montevideo","Midfielder",176,72
+"Uruguay","Eg<U+00ED>dio Ra<U+00FA>l","Ar<U+00E9>valo R<U+00ED>os","Uruguay",1982-01-01,32,"Uruguay","Paysand<U+00FA>","Midfielder",170,68
+"Uruguay","Marcelo Nicol<U+00E1>s","Lodeiro Ben<U+00ED>tez","Uruguay",1989-03-21,25,"Uruguay","Paysand<U+00FA>","Midfielder",170,69
+"Uruguay","Gast<U+00F3>n Exequiel","Ram<U+00ED>rez Pereyra","Uruguay",1990-12-02,23,"Uruguay","Fray Bentos","Midfielder",183,78
+"Uruguay","Alejandro Daniel","Silva Gonz<U+00E1>lez","Uruguay",1989-09-04,24,"Uruguay","Montevideo","Midfielder",178,67
+"Uruguay","Luis Alberto","Su<U+00E1>rez D<U+00ED>az","Uruguay",1987-01-24,27,"Uruguay","Salto","Attacker",181,81
+"Uruguay","Diego","Forl<U+00E1>n Corazo","Uruguay",1979-05-19,35,"Uruguay","Montevideo","Attacker",180,75
+"Uruguay","Edinson Roberto","Cavani G<U+00F3>mez","Uruguay",1987-02-14,27,"Uruguay","Salto","Attacker",184,74
+"Uruguay","Cristhian Ricardo","Stuani Curbelo","Uruguay",1986-10-12,27,"Uruguay","Tala","Attacker",186,76
+"Uruguay","Abel Mathias","Hern<U+00E1>ndez Platero","Uruguay",1990-08-08,23,"Uruguay","Pando","Attacker",185,73
+"Costa Rica","Keilor","Navas Gamboa","Costa Rica",1986-12-15,27,"Costa Rica","P<U+00E9>rez Zeled<U+00F3>n","Goalkeeper",186,78
+"Costa Rica","Patrick Alberto","Pemberton Bernard","Costa Rica",1982-04-24,32,"Costa Rica",NA,"Goalkeeper",NA,NA
+"Costa Rica","Daniel Arturo","Cambronero Solano","Costa Rica",1986-01-08,28,"Costa Rica",NA,"Goalkeeper",180,74
+"Costa Rica","Leonel","Moreira Ledezma","Costa Rica",1990-04-02,24,"Costa Rica",NA,"Goalkeeper",NA,NA
+"Costa Rica","Michael","Uma<U+00F1>a Corrales","Costa Rica",1982-07-16,31,"Costa Rica","Santa Ana","Defender",183,73
+"Costa Rica","Roy","Miller Hern<U+00E1>ndez","Costa Rica",1984-11-24,29,"Costa Rica","San Jose","Defender",188,75
+"Costa Rica","J<U+00FA>nior Enrique","D<U+00ED>az Campbell","Costa Rica",1983-09-12,30,"Costa Rica","San Jos<U+00E9>","Defender",185,76
+"Costa Rica","<U+00D3>scar Esau","Duarte Gait<U+00E1>n","Costa Rica",1989-06-03,25,"Nicaragua","Masaya","Defender",184,85
+"Costa Rica","Dave Andrew","Myrie Medrano","Costa Rica",1988-06-01,26,"Costa Rica","Limon","Defender",186,78
+"Costa Rica","Heiner","Mora Mora","Costa Rica",1984-06-20,29,"Costa Rica","San Jos<U+00E9>","Defender",179,76
+"Costa Rica","Cristian","Gamboa Luna","Costa Rica",1989-10-24,24,"Costa Rica","Liberia","Defender",175,67
+"Costa Rica","Geancarlo","Gonz<U+00E1>lez Castro","Costa Rica",1988-02-08,26,"Costa Rica","San Jos<U+00E9>","Defender",191,84
+"Costa Rica","Jhonny","Acosta Zamora","Costa Rica",1983-07-21,30,"Costa Rica","Alajuela","Defender",178,77
+"Costa Rica","Christopher","Meneses Barrantes","Costa Rica",1990-05-02,24,"Costa Rica",NA,"Defender",NA,NA
+"Costa Rica","Porfirio","L<U+00F3>pez Meza","Costa Rica",1986-09-21,27,"Costa Rica","San Jos<U+00E9>","Defender",182,80
+"Costa Rica","Jos<U+00E9> Andr<U+00E9>s","Salvatierra L<U+00F3>pez","Costa Rica",1989-10-10,24,"Costa Rica",NA,"Defender",NA,NA
+"Costa Rica","Waylon Dwayne","Francis Box","Costa Rica",1990-09-20,23,"Costa Rica","Lim<U+00F3>n","Defender",NA,NA
+"Costa Rica","Michael","Barrantes Rojas","Costa Rica",1983-10-04,30,"Costa Rica","San Jos<U+00E9>","Midfielder",177,71
+"Costa Rica","Carlos Gerardo","Hern<U+00E1>ndez Valverde","Costa Rica",1982-04-09,32,"Costa Rica","San Jos<U+00E9>","Midfielder",170,70
+"Costa Rica","Celso","Borges Mora","Costa Rica",1988-05-27,26,"Costa Rica","San Jos<U+00E9>","Midfielder",182,78
+"Costa Rica","Pablo","Herrera Barrantes","Costa Rica",1987-02-14,27,"Costa Rica","Alajuela","Midfielder",168,67
+"Costa Rica","Eithel Ariel","Rodr<U+00ED>guez Araya","Costa Rica",1986-04-22,28,"Costa Rica",NA,"Midfielder",182,80
+"Costa Rica","<U+00D3>scar Esteban","Granados Maroto","Costa Rica",1985-10-25,28,"Costa Rica",NA,"Midfielder",183,74
+"Costa Rica","Cristian","Bola<U+00F1>os Navarro","Costa Rica",1984-05-17,30,"Costa Rica","Hatillo de San Jos<U+00E9>","Midfielder",178,67
+"Costa Rica","Jos<U+00E9> Miguel","Cubero Loria","Costa Rica",1987-02-14,27,"Costa Rica",NA,"Midfielder",NA,NA
+"Costa Rica","Yeltsin Ignacio","Tejeda Valverde","Costa Rica",1992-03-17,22,"Costa Rica",NA,"Midfielder",175,NA
+"Costa Rica","Mauricio","Castillo Contreras","Costa Rica",1987-06-19,26,"Costa Rica","San Jos<U+00E9>","Midfielder",171,NA
+"Costa Rica","Bryan","Ruiz Gonz<U+00E1>lez","Costa Rica",1985-08-18,28,"Costa Rica","San Jos<U+00E9>","Attacker",186,70
+"Costa Rica","<U+00C1>lvaro Alberto","Sabor<U+00ED>o Chac<U+00F3>n","Costa Rica",1982-03-25,32,"Costa Rica","San Carlos","Attacker",183,82
+"Costa Rica","Randall","Brenes Moya","Costa Rica",1983-08-13,30,"Costa Rica",NA,"Attacker",NA,NA
+"Costa Rica","Jairo","Arrieta Obando","Costa Rica",1983-08-25,30,"Costa Rica","Nicoya","Attacker",173,70
+"Costa Rica","Marcos Danilo","Ure<U+00F1>a Porras","Costa Rica",1990-03-05,24,"Costa Rica","San Jos<U+00E9>","Attacker",179,NA
+"Costa Rica","Jonathan Andr<U+00E9>s","McDonald Porras","Costa Rica",1987-10-28,26,"Costa Rica",NA,"Attacker",173,69
+"Costa Rica","Joel Nathaniel","Campbell Samuels","Costa Rica",1992-06-26,21,"Costa Rica","San Jos<U+00E9>","Attacker",178,70
+"Costa Rica","Diego Gerardo","Calvo Fonseca","Costa Rica",1991-03-25,23,"Costa Rica","San Jose","Attacker",178,78
+"Costa Rica","Kenny","Cunningham Brown","Costa Rica",1985-06-07,29,"Costa Rica",NA,"Attacker",172,70
+"Costa Rica","John Jairo","Ruiz Barrantes","Costa Rica",1994-01-10,20,"Costa Rica","Puntarenas","Attacker",175,66
+"England","Ben","Foster","England",1983-04-03,31,"England","Leamington Spa","Goalkeeper",190,79
+"England","Joe","Hart","England",1987-04-19,27,"England","Shrewsbury","Goalkeeper",194,83
+"England","John","Ruddy","England",1986-10-24,27,"England","Cambridgeshire","Goalkeeper",192,96
+"England","Fraser","Forster","England",1988-03-17,26,"England","Hexham","Goalkeeper",201,NA
+"England","Ashley","Cole","England",1980-12-20,33,"England","Stepney","Defender",176,66
+"England","Phil","Jagielka","England",1982-08-17,31,"England","Sale","Defender",180,87
+"England","Glen","Johnson","England",1984-08-23,29,"England","Greenwich","Defender",182,70
+"England","Leighton","Baines","England",1984-12-11,29,"England","Kirkby","Defender",170,70
+"England","Gary ","Cahill","England",1985-12-19,28,"England","Sheffield","Defender",188,71
+"England","Chris","Smalling","England",1989-11-22,24,"England","Greenwich","Defender",192,81
+"England","Steven","Caulker","England",1991-12-29,22,"England","London","Defender",191,76
+"England","Phil","Jones","England",1992-02-21,22,"England","Preston","Defender",180,70
+"England","Jon","Flanagan","England",1993-01-01,21,"England","Liverpool","Defender",180,NA
+"England","John","Stones","England",1994-05-28,20,"England","Barnsley","Defender",188,NA
+"England","Luke","Shaw","England",1995-07-12,18,"England","Kingston upon Thames","Defender",185,NA
+"England","Michael","Carrick","England",1981-07-28,32,"England","Wallsend","Midfielder",188,74
+"England","Steven ","Gerrard","England",1980-05-30,34,"England","Whiston","Midfielder",183,83
+"England","Frank ","Lampard","England",1978-06-20,35,"England","Romford","Midfielder",184,88
+"England","James","Milner","England",1986-01-04,28,"England","Wortley","Midfielder",176,70
+"England","Adam","Lallana","England",1988-05-10,26,"England","St. Albans","Midfielder",173,72
+"England","Jordan ","Henderson","England",1990-06-17,23,"England","Sunderland","Midfielder",182,67
+"England","Jack","Wilshere","England",1992-01-01,22,"England","Stevenage","Midfielder",170,60
+"England","Tom","Cleverley","England",1989-08-12,24,"England","Basingstoke","Midfielder",175,NA
+"England","Andros","Townsend","England",1991-07-16,22,"England","London","Midfielder",183,77
+"England","Ross","Barkley","England",1993-12-05,20,"England","Liverpool","Midfielder",189,NA
+"England","Raheem Shaquille","Sterling","England",1994-12-08,19,"Jamaica","Kingston","Midfielder",170,NA
+"England","Wayne","Rooney","England",1985-10-24,28,"England","Liverpool","Attacker",176,78
+"England","Jermain ","Defoe","England",1982-10-07,31,"England","Beckton","Attacker",169,65
+"England","Daniel","Sturridge","England",1989-09-01,24,"England","Birmingham","Attacker",188,76
+"England","Jay","Rodriguez","England",1989-07-29,24,"England","Burnley","Attacker",185,70
+"England","Rickie","Lambert","England",1982-02-16,32,"England","Liverpool","Attacker",188,76
+"England","Daniel Nii ","Tackie  Mensah Welbeck","England",1990-11-26,23,"England","Manchester","Attacker",185,73
+"England","Alex ","Oxlade-Chamberlain","England",1993-08-15,20,"England","Portsmouth","Attacker",180,69
+"Italy","Gianluigi","Buffon","Italy",1978-01-28,36,"Italy","Carrara","Goalkeeper",191,83
+"Italy","Antonio","Mirante","Italy",1983-07-08,30,"Italy","Castellamare Di Stabia","Goalkeeper",193,79
+"Italy","Salvatore","Sirigu","Italy",1987-01-12,27,"Italy","Nuoro","Goalkeeper",192,80
+"Italy","Mattia","Perin","Italy",1992-11-10,21,"Italy","Latina","Goalkeeper",188,74
+"Italy","Andrea","Barzagli","Italy",1981-05-08,33,"Italy","Fiesole","Defender",186,79
+"Italy","Gabriel Alejandro","Paletta","Italy",1986-02-15,28,"Argentina","Longchamps","Defender",190,88
+"Italy","Leonardo","Bonucci","Italy",1987-05-01,27,"Italy","Viterbo","Defender",190,82
+"Italy","Manuel","Pasqual","Italy",1982-03-13,32,"Italy","San Don<U+00E0> del Piave","Defender",178,71
+"Italy","Giorgio","Chiellini","Italy",1984-08-14,29,"Italy","Pisa","Defender",186,76
+"Italy","Domenico","Criscito","Italy",1986-12-30,27,"Italy","Cercola","Defender",183,75
+"Italy","Matteo","Darmian","Italy",1989-12-02,24,"Italy","Legnano","Defender",182,70
+"Italy","Ignazio","Abate","Italy",1986-11-12,27,"Italy","Sant'Agata de' Goti","Defender",180,73
+"Italy","Andrea","Ranocchia","Italy",1988-02-16,26,"Italy","Assisi","Defender",195,81
+"Italy","Davide","Astori","Italy",1987-01-07,27,"Italy","San Giovanni Bianco","Defender",188,80
+"Italy","Mattia","De Sciglio","Italy",1992-10-20,21,"Italy","Milano","Defender",183,74
+"Italy","Daniele","De Rossi","Italy",1983-07-24,30,"Italy","Roma","Midfielder",185,83
+"Italy","Andrea","Pirlo","Italy",1979-05-19,35,"Italy","Flero","Midfielder",177,68
+"Italy","Thiago","Motta","Italy",1982-08-28,31,"Brazil","Sao Bernardo","Midfielder",187,83
+"Italy","Alberto","Aquilani","Italy",1984-07-07,29,"Italy","Roma","Midfielder",186,77
+"Italy","Riccardo","Montolivo","Italy",1985-01-18,29,"Italy","Caravaggio","Midfielder",182,79
+"Italy","Christian","Maggio","Italy",1982-02-11,32,"Italy","Montecchio Maggiore","Midfielder",184,79
+"Italy","Claudio","Marchisio","Italy",1986-01-19,28,"Italy","Chieri","Midfielder",179,76
+"Italy","Antonio","Candreva","Italy",1987-02-28,27,"Italy","Roma","Midfielder",181,72
+"Italy","Alessio","Cerci","Italy",1987-07-23,26,"Italy","Velletri","Midfielder",180,78
+"Italy","R<U+00F4>mulo ","Souza Orestes Caldeira","Italy",1987-05-22,27,"Brazil","Pelotas","Midfielder",178,72
+"Italy","Emanuele","Giaccherini","Italy",1985-05-05,29,"Italy","Bibbiena","Midfielder",167,60
+"Italy","Marco","Verratti","Italy",1992-11-05,21,"Italy","Pescara","Midfielder",165,60
+"Italy","Marco","Parolo","Italy",1985-01-25,29,"Italy","Gallarate","Midfielder",186,82
+"Italy","Alberto","Gilardino","Italy",1982-07-05,31,"Italy","Biella","Attacker",184,79
+"Italy","Giuseppe","Rossi","Italy",1987-02-01,27,"USA","Teaneck","Attacker",173,72
+"Italy","Antonio","Cassano","Italy",1982-07-12,31,"Italy","Bari","Attacker",175,78
+"Italy","Pablo Daniel","Osvaldo","Italy",1986-01-12,28,"Argentina","Buenos Aires","Attacker",185,81
+"Italy","Mario ","Barwuah Balotelli","Italy",1990-08-12,23,"Italy","Palermo","Attacker",189,88
+"Italy","Ciro","Immobile","Italy",1990-02-20,24,"Italy","Torre Annunziata","Attacker",185,78
+"Italy","Mattia","Destro","Italy",1991-03-20,23,"Italy","Ascoli","Attacker",181,73
+"Italy","Lorenzo","Insigne","Italy",1991-06-04,23,"Italy","Napoli","Attacker",163,59
+"Cote d'Ivoire","Boubacar Copa","Barry","Cote d'Ivoire",1979-12-30,34,"Cote d'Ivoire","Marcory","Goalkeeper",181,69
+"Cote d'Ivoire","Badra Ali","Sangar<U+00E9>","Cote d'Ivoire",1986-05-30,28,"Cote d'Ivoire","Bingerville","Goalkeeper",181,78
+"Cote d'Ivoire","Mand<U+00E9>","Sayouba","Cote d'Ivoire",1993-06-15,20,"Cote d'Ivoire","Abidjan","Goalkeeper",193,82
+"Cote d'Ivoire","Guelassiognon Sylvain","Gbohouo","Cote d'Ivoire",1988-10-29,25,"Cote d'Ivoire",NA,"Goalkeeper",NA,NA
+"Cote d'Ivoire","Kolo Habib","Tour<U+00E9>","Cote d'Ivoire",1981-03-19,33,"Cote d'Ivoire","Bouak<U+00E9>","Defender",180,74
+"Cote d'Ivoire","Siaka Chico","Ti<U+00E9>n<U+00E9>","Cote d'Ivoire",1982-02-22,32,"Cote d'Ivoire","Abidjan","Defender",176,72
+"Cote d'Ivoire","Arthur Etienne","Boka","Cote d'Ivoire",1983-04-02,31,"Cote d'Ivoire","Abidjan","Defender",166,67
+"Cote d'Ivoire","Tohouri Zahoui Constant","Djakpa","Cote d'Ivoire",1986-10-17,27,"Cote d'Ivoire","Abidjan","Defender",177,74
+"Cote d'Ivoire","Souleymane","Bamba","Cote d'Ivoire",1985-01-13,29,"France","Ivry-sur-Seine","Defender",190,90
+"Cote d'Ivoire","Brou Benjamin","Angoua","Cote d'Ivoire",1986-11-28,27,"Cote d'Ivoire","Anyama","Defender",183,72
+"Cote d'Ivoire","Ousmane","Viera Diarrassouba","Cote d'Ivoire",1986-12-21,27,"Cote d'Ivoire",NA,"Defender",NA,NA
+"Cote d'Ivoire","Brice","Dja Dj<U+00E9>dj<U+00E9>","Cote d'Ivoire",1990-12-12,23,"Cote d'Ivoire","Aboud<U+00E9> Kouassiko","Defender",180,71
+"Cote d'Ivoire","Serge","Aurier","Cote d'Ivoire",1992-12-24,21,"Cote d'Ivoire","Ouragahio","Defender",176,76
+"Cote d'Ivoire","Jean-Daniel","Akpa Akpro","Cote d'Ivoire",1992-10-11,21,"France","Toulouse","Defender",180,68
+"Cote d'Ivoire","Christian Koffi","Romaric N'Dri","Cote d'Ivoire",1983-06-04,31,"Cote d'Ivoire","Abidjan","Midfielder",187,88
+"Cote d'Ivoire","Alain Didier","Zokora-D<U+00E9>guy","Cote d'Ivoire",1980-12-14,33,"Cote d'Ivoire","Abidjan","Midfielder",179,72
+"Cote d'Ivoire","Gn<U+00E9>gn<U+00E9>ri Yaya","Tour<U+00E9>","Cote d'Ivoire",1983-05-13,31,"Cote d'Ivoire","Bouak<U+00E9>","Midfielder",191,90
+"Cote d'Ivoire","Cheikh Ismael","Tiot<U+00E9>","Cote d'Ivoire",1986-06-21,27,"Cote d'Ivoire","Yamoussoukro","Midfielder",180,76
+"Cote d'Ivoire","Sereso Geoffroy","Gonzaroua Die","Cote d'Ivoire",1984-11-07,29,"Cote d'Ivoire","Facobly","Midfielder",179,77
+"Cote d'Ivoire","Jean-Jacques","Gosso Gosso","Cote d'Ivoire",1983-03-15,31,"Cote d'Ivoire","Abidjan","Midfielder",177,75
+"Cote d'Ivoire","Isma<U+00EB>l Ti<U+00E9>moko","Diomand<U+00E9>","Cote d'Ivoire",1992-08-28,21,"Cote d'Ivoire","Abidjan","Midfielder",180,NA
+"Cote d'Ivoire","Jean Micha<U+00EB>l","Seri","Cote d'Ivoire",1991-07-19,22,"Cote d'Ivoire","Grand-Bereby","Midfielder",168,69
+"Cote d'Ivoire","Didier Yves","Drogba T<U+00E9>bily","Cote d'Ivoire",1978-03-11,36,"Cote d'Ivoire","Abidjan","Attacker",189,91
+"Cote d'Ivoire","Salomon Armand Magloire","Kalou","Cote d'Ivoire",1985-08-05,28,"Cote d'Ivoire","Oum<U+00E9>","Attacker",184,77
+"Cote d'Ivoire","Seydou","Doumbia","Cote d'Ivoire",1987-12-31,26,"Cote d'Ivoire","Yamoussoukro","Attacker",178,74
+"Cote d'Ivoire","Didier","Ya Konan","Cote d'Ivoire",1984-05-22,30,"Cote d'Ivoire","Abidjan","Attacker",174,68
+"Cote d'Ivoire","Gervais Lombe Yao","Kouassi","Cote d'Ivoire",1987-05-27,27,"Cote d'Ivoire","Anyama","Attacker",179,68
+"Cote d'Ivoire","Max-Alain","Gradel","Cote d'Ivoire",1987-11-30,26,"Cote d'Ivoire","Abidjan","Attacker",175,69
+"Cote d'Ivoire","Wilfried Guemiand","Bony","Cote d'Ivoire",1988-12-10,25,"Cote d'Ivoire","Bingerville","Attacker",182,88
+"Cote d'Ivoire","Giovanni-Guy Yann","Sio","Cote d'Ivoire",1989-03-31,25,"France","Saint-S<U+00E9>bastien-sur-Loire","Attacker",181,77
+"Cote d'Ivoire","Lacina","Traor<U+00E9>","Cote d'Ivoire",1990-08-20,23,"Cote d'Ivoire","Abidjan","Attacker",203,92
+"Cote d'Ivoire","Mathis Gazoa ","Kippersund Bolly","Cote d'Ivoire",1990-11-14,23,"Norway","Oslo","Attacker",185,77
+"Japan","Eiji","Kawashima","Japan",1983-03-20,31,"Japan","Yono","Goalkeeper",185,80
+"Japan","Shusaku","Nishikawa","Japan",1986-06-18,27,"Japan","<U+014C>ita","Goalkeeper",183,81
+"Japan","Shuichi","Gonda","Japan",1989-03-03,25,"Japan","T<U+014D>ky<U+014D>","Goalkeeper",187,83
+"Japan","Gotoku","Sakai","Japan",1991-03-14,23,"USA","New York","Defender",176,74
+"Japan","Y<U+016B>ichi","Komano","Japan",1981-07-25,32,"Japan","Wakayama","Defender",172,76
+"Japan","Yuto","Nagatomo","Japan",1986-09-12,27,"Japan","Ehime","Defender",170,68
+"Japan","Masato","Morishige","Japan",1987-05-21,27,"Japan","Hiroshima","Defender",180,72
+"Japan","Masahiko","Inoha","Japan",1985-08-28,28,"Japan","Miyazaki","Defender",179,73
+"Japan","Hiroki","Sakai","Japan",1990-04-12,24,"Japan","Kashiwa","Defender",185,70
+"Japan","Maya","Yoshida","Japan",1988-08-24,25,"Japan","Nagasaki","Defender",189,78
+"Japan","Yasuyuki","Konno","Japan",1983-01-25,31,"Japan","Sendai","Defender",178,73
+"Japan","Atsuto","Uchida","Japan",1988-03-27,26,"Japan","Kannami","Defender",176,62
+"Japan","Yasuhito","End<U+014D>","Japan",1980-01-28,34,"Japan","Kagoshima","Midfielder",178,73
+"Japan","Hiroshi","Kiyotake","Japan",1989-11-12,24,"Japan","<U+014C>ita","Midfielder",172,63
+"Japan","Shinji","Okazaki","Japan",1986-04-16,28,"Japan","Hy<U+014D>go","Midfielder",174,76
+"Japan","Hajime","Hosogai","Japan",1986-06-10,27,"Japan","Maebashi","Midfielder",176,68
+"Japan","Toshihiro","Aoyama","Japan",1986-02-22,28,"Japan","Okayama","Midfielder",174,73
+"Japan","Hotaru","Yamaguchi","Japan",1990-10-06,23,"Japan","Mie","Midfielder",173,72
+"Japan","Makoto","Hasebe","Japan",1984-01-18,30,"Japan","Fujieda","Midfielder",177,66
+"Japan","Yoichiro","Kakitani","Japan",1990-01-03,24,"Japan","Osaka","Midfielder",173,62
+"Japan","Keisuke","Honda","Japan",1986-06-13,27,"Japan","Osaka","Attacker",182,74
+"Japan","Shinji","Kagawa","Japan",1989-03-17,25,"Japan","Hy<U+014D>go","Attacker",172,63
+"Japan","Yohei","Toyoda","Japan",1985-04-11,29,"Japan","Ishikawa","Attacker",185,79
+"Japan","Masato","Kudo","Japan",1990-05-06,24,"Japan","Tokyo","Attacker",177,74
+"Japan","Yuya","Osako","Japan",1990-05-18,24,"Japan","Kagoshima","Attacker",182,70
+"Japan","Manabu","Saito","Japan",1990-04-04,24,"Japan","Kanagawa","Attacker",165,64
+"Japan","Yoshito","Okubo","Japan",1982-06-09,31,"Japan","Fukuoka","Attacker",170,73
+"Switzerland","Diego","Benaglio","Switzerland",1983-09-08,30,"Switzerland","Z<U+00FC>rich","Goalkeeper",194,89
+"Switzerland","Yann","Sommer","Switzerland",1988-12-17,25,"Switzerland","Morges","Goalkeeper",183,79
+"Switzerland","Roman","B<U+00FC>rki","Switzerland",1990-11-14,23,"Switzerland",NA,"Goalkeeper",187,83
+"Switzerland","Johan Danon","Djourou-Gbadjere","Switzerland",1987-01-18,27,"Cote d'Ivoire","Abidjan","Defender",191,87
+"Switzerland","Philippe","Senderos","Switzerland",1985-02-14,29,"Switzerland","G<U+00E8>neve","Defender",190,84
+"Switzerland","Stephan","Lichtsteiner","Switzerland",1984-01-16,30,"Switzerland","Adligenswil","Defender",180,77
+"Switzerland","Reto","Ziegler","Switzerland",1986-01-16,28,"Switzerland","Gen<U+00E8>ve","Defender",183,80
+"Switzerland","Steve","von Bergen","Switzerland",1983-06-10,30,"Switzerland","Neuch<U+00E2>tel","Defender",186,82
+"Switzerland","Michael","Lang","Switzerland",1991-02-08,23,"Switzerland","Sankt Gallen","Defender",185,79
+"Switzerland","Ricardo","Rodriguez","Switzerland",1992-08-25,21,"Switzerland","Z<U+00FC>rich","Defender",180,78
+"Switzerland","Fabian","Sch<U+00E4>r","Switzerland",1991-12-20,22,"Switzerland","Wil","Defender",186,85
+"Switzerland","Tranquillo","Barnetta","Switzerland",1985-05-22,29,"Switzerland","Sankt Gallen","Midfielder",178,70
+"Switzerland","Valon","Behrami","Switzerland",1985-04-19,29,"Kosovo","Mitrovica","Midfielder",184,78
+"Switzerland","Blerim","D<U+017E>emaili","Switzerland",1986-04-12,28,"FYR Macedonia","Tetovo","Midfielder",179,73
+"Switzerland","Pirmin","Schwegler","Switzerland",1987-03-09,27,"Switzerland","Ettiswil","Midfielder",177,72
+"Switzerland","Gelson","Fernandes","Switzerland",1986-09-02,27,"Cape Verde Islands","Praia","Midfielder",183,70
+"Switzerland","G<U+00F6>khan","<U+0130>nler","Switzerland",1984-06-27,29,"Switzerland","Olten","Midfielder",183,80
+"Switzerland","Valentin","Stocker","Switzerland",1989-04-12,25,"Switzerland","Kriens","Midfielder",179,73
+"Switzerland","Xherdan","Shaqiri","Switzerland",1991-10-10,22,"Kosovo","Gjilan","Midfielder",169,72
+"Switzerland","Granit","Xhaka","Switzerland",1992-09-27,21,"Switzerland","Basel","Midfielder",185,82
+"Switzerland","Admir","Mehmedi","Switzerland",1991-03-16,23,"FYR Macedonia","Gostivar","Attacker",183,77
+"Switzerland","Haris","Seferovi<U+0107>","Switzerland",1992-02-22,22,"Switzerland","Sursee","Attacker",191,NA
+"Switzerland","Mario","Gavranovi<U+0107>","Switzerland",1989-11-24,24,"Switzerland","Lugano","Attacker",175,68
+"Switzerland","Josip","Drmic","Switzerland",1992-08-08,21,"Switzerland","Freienbach","Attacker",182,70
+"Ecuador","M<U+00E1>ximo Orlando","Banguera Valdiviezo","Ecuador",1985-12-16,28,"Ecuador","Guayaquil","Goalkeeper",188,87
+"Ecuador","Adri<U+00E1>n Javier","Bone S<U+00E1>nchez","Ecuador",1988-09-08,25,"Ecuador","Esmeraldas","Goalkeeper",186,76
+"Ecuador","Alexander","Dom<U+00ED>nguez Carabal<U+00ED>","Ecuador",1987-06-05,27,"Ecuador","Tachina","Goalkeeper",193,76
+"Ecuador","Jorge Daniel","Guagua Tamayo","Ecuador",1981-09-28,32,"Ecuador","Esmeraldas","Defender",179,65
+"Ecuador","Gabriel Eduardo","Achilier Zurita","Ecuador",1985-03-24,29,"Ecuador",NA,"Defender",180,83
+"Ecuador","Oscar Dalmiro","Bag<U+00FC><U+00ED> Angulo","Ecuador",1982-12-10,31,"Ecuador","Esmeraldas","Defender",173,65
+"Ecuador","Walter Orlando","Ayov<U+00ED> Corozo","Ecuador",1979-08-11,34,"Ecuador","Esmeraldas","Defender",171,68
+"Ecuador","Juan Carlos","Paredes Reasco","Ecuador",1987-07-08,26,"Ecuador","Esmeraldas","Defender",174,72
+"Ecuador","Frickson Rafael","Erazo Vivero","Ecuador",1988-05-05,26,"Ecuador","Esmeraldas","Defender",180,64
+"Ecuador","Cristian Leonel","Ram<U+00ED>rez Zambrano","Ecuador",1994-08-12,19,"Ecuador","Santo Domingo","Defender",171,69
+"Ecuador","Segundo Alejandro","Castillo Nazareno","Ecuador",1982-05-15,32,"Ecuador","San Lorenzo","Midfielder",180,75
+"Ecuador","<U+00C9>dison Vicente","M<U+00E9>ndez M<U+00E9>ndez","Ecuador",1979-03-16,35,"Ecuador","El Chota","Midfielder",175,68
+"Ecuador","Luis Fernando","Saritama Padilla","Ecuador",1983-10-20,30,"Ecuador","Loja","Midfielder",172,70
+"Ecuador","Luis Antonio","Valencia Mosquera","Ecuador",1985-08-04,28,"Ecuador","Lago Agrio","Midfielder",180,78
+"Ecuador","Christian","Noboa Tello","Ecuador",1985-04-09,29,"Ecuador","Guayaquil","Midfielder",181,74
+"Ecuador","Pedro <U+00C1>ngel","Qui<U+00F1><U+00F3>nez Rodr<U+00ED>guez","Ecuador",1986-03-04,28,"Ecuador","Esmeraldas","Midfielder",170,68
+"Ecuador","Alex Renato","Ibarra Mina","Ecuador",1991-01-20,23,"Ecuador","Ambuqui","Midfielder",171,NA
+"Ecuador","Fernando Vicente","Gaibor Orellana","Ecuador",1991-10-08,22,"Ecuador","Montalvo","Midfielder",178,75
+"Ecuador","Jose Francisco","Cevallos Enriquez","Ecuador",1995-01-18,19,"Ecuador",NA,"Midfielder",186,71
+"Ecuador","Carlos Armando","Gruezo Arboleda","Ecuador",1995-04-19,19,"Ecuador","Guayaquil","Midfielder",171,67
+"Ecuador","Joao Robin","Rojas Mendoza","Ecuador",1989-06-14,24,"Ecuador","La Troncal","Attacker",173,65
+"Ecuador","Jaime Javier","Ayov<U+00ED> Corozo","Ecuador",1988-02-21,26,"Ecuador","Atahualpa","Attacker",183,81
+"Ecuador","Felipe Salvador","Caicedo Corozo","Ecuador",1988-09-05,25,"Ecuador","Guayaquil","Attacker",190,78
+"Ecuador","Michael Antonio","Arroyo Mina","Ecuador",1987-04-23,27,"Ecuador","Guayaquil","Attacker",177,72
+"Ecuador","Armando Len<U+00ED>n","Wila Cang<U+00E1>","Ecuador",1985-05-12,29,"Ecuador","San Lorenzo","Attacker",NA,NA
+"Ecuador","Jefferson Antonio","Montero Vite","Ecuador",1989-09-01,24,"Ecuador","Babahoyo","Attacker",169,64
+"Ecuador","Enner Remberto","Valencia Lastra","Ecuador",1989-11-04,24,"Ecuador","San Lorenzo","Attacker",174,74
+"Ecuador","Fidel Francisco","Mart<U+00ED>nez Tenorio","Ecuador",1990-02-15,24,"Ecuador","Shushufindi","Attacker",176,72
+"France","Micka<U+00EB>l","Landreau","France",1979-05-14,35,"France","Machecoul","Goalkeeper",184,84
+"France","Hugo","Lloris","France",1986-12-26,27,"France","Nice","Goalkeeper",188,78
+"France","St<U+00E9>phane","Ruffier","France",1986-09-27,27,"France","Bayonne","Goalkeeper",188,90
+"France","Steve","Mandanda","France",1985-03-28,29,"Congo DR","Kinshasa","Goalkeeper",185,82
+"France","Bacary","Sagna","France",1983-02-14,31,"France","Sens","Defender",176,72
+"France","Mathieu","Debuchy","France",1985-07-28,28,"France","Fretin","Defender",176,76
+"France","Patrice","Evra","France",1981-05-15,33,"Senegal","Dakar","Defender",175,76
+"France","Mamadou","Sakho","France",1990-02-13,24,"France","Paris","Defender",187,83
+"France","Laurent","Koscielny","France",1985-09-10,28,"France","Tulle","Defender",186,75
+"France","Eliaquim","Mangala","France",1991-02-13,23,"France","Paris","Defender",187,74
+"France","Lucas","Digne","France",1993-07-20,20,"France","Meaux","Defender",178,74
+"France","Rapha<U+00EB>l","Varane","France",1993-04-25,21,"France","Lille","Defender",190,85
+"France","Franck Bilal","Rib<U+00E9>ry","France",1983-04-07,31,"France","Boulogne-sur-Mer","Midfielder",170,72
+"France","Blaise","Matuidi","France",1987-04-09,27,"France","Toulouse","Midfielder",175,70
+"France","Rio Antonio","Zoba Mavuba","France",1984-03-08,30,"Angola","*Born at sea","Midfielder",172,74
+"France","Mathieu","Valbuena","France",1984-09-28,29,"France","Bruges","Midfielder",167,58
+"France","Yohan","Cabaye","France",1986-01-14,28,"France","Tourcoing","Midfielder",175,72
+"France","Moussa","Sissoko","France",1989-08-16,24,"Mali","Le Blanc-Mesnil","Midfielder",187,83
+"France","Cl<U+00E9>ment","Grenier","France",1991-01-07,23,"France","Annonay","Midfielder",186,72
+"France","Josuha","Guilavogui","France",1990-09-19,23,"France","Ollioules","Midfielder",187,78
+"France","R<U+00E9>my","Cabella","France",1990-03-08,24,"France","Ajaccio","Midfielder",172,66
+"France","Paul","Pogba","France",1993-03-15,21,"France","Langny-sur-Marne","Midfielder",186,80
+"France","Dimitri ","Payet","France",1987-03-29,27,"R<U+00E9>union","Saint-Pierre","Attacker",175,77
+"France","Karim","Benzema","France",1987-12-19,26,"France","Lyon","Attacker",184,84
+"France","Lo<U+00EF>c","R<U+00E9>my","France",1987-01-02,27,"France","Lyon","Attacker",184,66
+"France","Olivier","Giroud","France",1986-09-30,27,"France","Chamb<U+00E9>ry","Attacker",193,92
+"France","Antoine","Griezmann","France",1991-03-21,23,"France","M<U+00E2>con","Attacker",176,67
+"Honduras","Noel Eduardo","Valladares Bonilla","Honduras",1977-05-03,37,"Honduras","Comayagua","Goalkeeper",190,80
+"Honduras","Donis Salatiel","Escober Izaguirre","Honduras",1981-02-03,33,"Honduras","San Ignacio","Goalkeeper",179,76
+"Honduras","Luis Aurelio","Lopez Fernandez","Honduras",1993-09-13,20,"Honduras","San Pedro Sula","Goalkeeper",NA,NA
+"Honduras","Maynor Alexis","Figueroa R<U+00F3>chez","Honduras",1983-05-02,31,"Honduras","Jutiapa","Defender",180,85
+"Honduras","Emilio Arturo","Izaguirre Gir<U+00F3>n","Honduras",1986-05-10,28,"Honduras","Tegucigalpa","Defender",177,77
+"Honduras","Juan Carlos","Garc<U+00ED>a","Honduras",1988-03-08,26,"Honduras","Tela","Defender",NA,NA
+"Honduras","V<U+00ED>ctor Salvador","Bern<U+00E1>rdez Blanco","Honduras",1982-05-24,32,"Honduras","La Ceiba","Defender",187,83
+"Honduras","Osm<U+00E1>n Danilo","Ch<U+00E1>vez Guity","Honduras",1984-07-29,29,"Honduras","Santa F<U+00E9>","Defender",187,86
+"Honduras","Brayan Antonio","Beckeles","Honduras",1985-11-28,28,"Honduras","La Ceiba","Defender",NA,NA
+"Honduras","Juan Pablo","Montes","Honduras",1985-12-26,28,"Honduras","Sulaco","Defender",NA,NA
+"Honduras","Henry Ra<U+00FA>l","Clark Pe<U+00F1>a","Honduras",1985-06-10,28,"Honduras","Tocoa Col<U+00F3>n","Defender",NA,NA
+"Honduras","Jos<U+00E9> Walther","Williams Castillo","Honduras",1983-09-30,30,"Honduras",NA,"Defender",NA,NA
+"Honduras","<U+00D3>scar Boniek","Garc<U+00ED>a Ram<U+00ED>rez","Honduras",1984-09-04,29,"Honduras","Tegucigalpa","Midfielder",175,72
+"Honduras","Jorge Aar<U+00F3>n","Claros Ju<U+00E1>rez","Honduras",1986-01-08,28,"Honduras","Puerto Cort<U+00E9>s","Midfielder",NA,NA
+"Honduras","Wilson Roberto","Palacios Suazo","Honduras",1984-07-29,29,"Honduras","La Ceiba","Midfielder",178,71
+"Honduras","R<U+00F3>ger","Espinoza Ram<U+00ED>rez","Honduras",1986-10-25,27,"Honduras","Puerto Cort<U+00E9>s","Midfielder",179,72
+"Honduras","Luis Fernando","Garrido","Honduras",1990-11-05,23,"Honduras","Jutiquile","Midfielder",170,NA
+"Honduras","Edder Gerardo","Delgado Zer<U+00F3>n","Honduras",1986-11-15,27,"Honduras","San Manuel","Midfielder",NA,NA
+"Honduras","Marvin Antonio","Ch<U+00E1>vez","Honduras",1983-11-03,30,"Honduras","La Ceiba","Midfielder",165,NA
+"Honduras","Mario Roberto","Mart<U+00ED>nez Hern<U+00E1>ndez","Honduras",1989-07-30,24,"Honduras","San Pedro de Sula","Midfielder",173,70
+"Honduras","Arnold Fabian","Peralta Sosa","Honduras",1989-03-29,25,"Honduras","La Ceiba","Midfielder",NA,NA
+"Honduras","Andy Aryel","Najar Rodriguez","Honduras",1993-03-16,21,"Honduras","Choluteca","Midfielder",170,68
+"Honduras","Bryan Josue","Acosta Ramos","Honduras",1993-11-24,20,"Honduras","La Ceiba","Midfielder",NA,NA
+"Honduras","Carlos Ya<U+00ED>r","Costly Molina","Honduras",1982-07-18,31,"Honduras","San Pedro Sula","Attacker",188,85
+"Honduras","Jerry Nelson","Palacios Suazo","Honduras",1982-05-13,32,"Honduras","La Ceiba","Attacker",183,81
+"Honduras","Jerry Ricardo","Bengtson Bodden","Honduras",1987-04-08,27,"Honduras","Santa Rosa de Agu<U+00E1>n","Attacker",187,73
+"Honduras","Romell Samir","Quioto Robinson","Honduras",1991-09-09,22,"Honduras",NA,"Attacker",NA,NA
+"Honduras","Diego Antonio","Reyes Sandoval","Honduras",1980-01-11,34,"Honduras","Tocoa","Attacker",NA,NA
+"Honduras","Rony Dar<U+00ED>o","Mart<U+00ED>nez Alm<U+00E9>ndarez","Honduras",1987-10-10,26,"Honduras","Olanchito","Attacker",NA,NA
+"Argentina","Mariano Gonzalo","And<U+00FA>jar","Argentina",1983-07-30,30,"Argentina","Buenos Aires","Goalkeeper",194,88
+"Argentina","Agust<U+00ED>n Ignacio","Ori<U+00F3>n","Argentina",1981-07-26,32,"Argentina","Ramos Mej<U+00ED>a","Goalkeeper",190,86
+"Argentina","Sergio Germ<U+00E1>n","Romero","Argentina",1987-02-22,27,"Argentina","Bernardo de Irigoyen","Goalkeeper",192,88
+"Argentina","Mart<U+00ED>n Gast<U+00F3>n","Demichelis","Argentina",1980-12-20,33,"Argentina","Justiniano Posse","Defender",184,78
+"Argentina","Pablo Javier","Zabaleta Girod","Argentina",1985-01-16,29,"Argentina","Buenos Aires","Defender",176,70
+"Argentina","Ezequiel Marcelo","Garay","Argentina",1986-10-10,27,"Argentina","Rosario","Defender",188,85
+"Argentina","Jos<U+00E9> Mar<U+00ED>a","Basanta","Argentina",1984-04-03,30,"Argentina","Tres Sargentos","Defender",188,80
+"Argentina","Hugo Armando","Campagnaro","Argentina",1980-06-27,33,"Argentina","R<U+00ED>o Cuarto","Defender",181,85
+"Argentina","Federico","Fern<U+00E1>ndez","Argentina",1989-02-21,25,"Argentina","Tres Algarrobos","Defender",189,81
+"Argentina","Nicol<U+00E1>s Hern<U+00E1>n","Otamendi","Argentina",1988-02-12,26,"Argentina","Buenos Aires","Defender",178,75
+"Argentina","Faustino Marcos Alberto","Rojo","Argentina",1990-03-20,24,"Argentina","La Plata","Defender",184,85
+"Argentina","Lisandro Ezequiel","L<U+00F3>pez","Argentina",1989-09-01,24,"Argentina","Villa Constituci<U+00F3>n","Defender",187,80
+"Argentina","Gino","Peruzzi Lucchetti","Argentina",1992-06-09,21,"Argentina","Corral de Bustos","Defender",178,66
+"Argentina","Javier Alejandro","Mascherano","Argentina",1984-06-08,29,"Argentina","San Lorenzo","Midfielder",174,84
+"Argentina","Maximiliano Rub<U+00E9>n","Rodr<U+00ED>guez","Argentina",1981-01-02,33,"Argentina","Rosario","Midfielder",180,74
+"Argentina","Lucas Rodrigo","Biglia","Argentina",1986-01-30,28,"Argentina","Mercedes","Midfielder",178,74
+"Argentina","Fernando Rub<U+00E9>n","Gago","Argentina",1986-04-10,28,"Argentina","Buenos Aires","Midfielder",176,73
+"Argentina","Enzo Nicol<U+00E1>s","P<U+00E9>rez","Argentina",1986-02-22,28,"Argentina","Mendoza","Midfielder",177,77
+"Argentina","Augusto Mat<U+00ED>as","Fern<U+00E1>ndez","Argentina",1986-04-10,28,"Argentina","Pergamino","Midfielder",177,71
+"Argentina","Jos<U+00E9> Ernesto","Sosa","Argentina",1985-06-19,28,"Argentina","Carcara<U+00F1><U+00E1>","Midfielder",179,71
+"Argentina","<U+00C1>ngel Fabi<U+00E1>n","di Mar<U+00ED>a Hern<U+00E1>ndez","Argentina",1988-02-14,26,"Argentina","Rosario","Midfielder",178,75
+"Argentina","<U+00C9>ver Maximiliano David","Banega","Argentina",1988-06-29,25,"Argentina","Rosario","Midfielder",174,69
+"Argentina","Ricardo Gabriel","<U+00C1>lvarez","Argentina",1988-04-12,26,"Argentina","Buenos Aires","Midfielder",188,84
+"Argentina","Rodrigo Sebasti<U+00E1>n","Palacio","Argentina",1982-02-05,32,"Argentina","Bah<U+00ED>a Blanca","Attacker",175,70
+"Argentina","Lionel Andr<U+00E9>s","Messi Cuccittini","Argentina",1987-06-24,26,"Argentina","Rosario","Attacker",169,67
+"Argentina","Sergio Leonel","Ag<U+00FC>ero del Castillo","Argentina",1988-06-02,26,"Argentina","Quilmes","Attacker",173,70
+"Argentina","Gonzalo Gerardo","Higua<U+00ED>n","Argentina",1987-12-10,26,"France","Brest","Attacker",184,82
+"Argentina","Ezequiel Iv<U+00E1>n","Lavezzi","Argentina",1985-05-03,29,"Argentina","Rosario","Attacker",173,75
+"Bosnia-Herzegovina","Asmir","Begovi<U+0107>","Bosnia and Herzegovina",1987-06-20,26,"Bosnia and Herzegovina","Trebinje","Goalkeeper",196,83
+"Bosnia-Herzegovina","Jasmin","Fejzi<U+0107>","Bosnia and Herzegovina",1986-05-15,28,"Bosnia and Herzegovina","Tupkovi<U+0107>","Goalkeeper",198,95
+"Bosnia-Herzegovina","Asmir","Avduki<U+0107>","Bosnia and Herzegovina",1981-05-13,33,"Bosnia and Herzegovina",NA,"Goalkeeper",190,NA
+"Bosnia-Herzegovina","Emir","Spahi<U+0107>","Bosnia and Herzegovina",1980-08-18,33,"Croatia","Dubrovnik","Defender",186,77
+"Bosnia-Herzegovina","Avdija","Vr<U+0161>ajevi<U+0107>","Bosnia and Herzegovina",1986-03-06,28,"Bosnia and Herzegovina","Te<U+0161>anj","Defender",181,71
+"Bosnia-Herzegovina","Mensur","Mujd<U+017E>a","Bosnia and Herzegovina",1984-03-28,30,"Croatia","Zagreb","Defender",185,77
+"Bosnia-Herzegovina","Toni","<U+0160>unji<U+0107>","Bosnia and Herzegovina",1988-12-15,25,"Bosnia and Herzegovina",NA,"Defender",192,NA
+"Bosnia-Herzegovina","Ervin","Zukanovi<U+0107>","Bosnia and Herzegovina",1987-02-11,27,"Bosnia and Herzegovina","Sarajevo","Defender",188,85
+"Bosnia-Herzegovina","Ognjen","Vranje<U+0161>","Bosnia and Herzegovina",1989-10-24,24,"Bosnia and Herzegovina","Banja Luka","Defender",182,76
+"Bosnia-Herzegovina","Ermin","Bi<U+010D>ak<U+010D>i<U+0107>","Bosnia and Herzegovina",1990-01-24,24,"Bosnia and Herzegovina","Zvornik","Defender",185,83
+"Bosnia-Herzegovina","Muhamed","Be<U+0161>i<U+0107>","Bosnia and Herzegovina",1992-09-10,21,"Germany","Berlin","Defender",177,75
+"Bosnia-Herzegovina","Sead","Kola<U+0161>inac","Bosnia and Herzegovina",1993-06-20,20,"Germany","Karlsruhe","Defender",183,82
+"Bosnia-Herzegovina","Zvjezdan","Misimovi<U+0107>","Bosnia and Herzegovina",1982-06-05,32,"Germany","M<U+00FC>nchen","Midfielder",180,79
+"Bosnia-Herzegovina","Haris","Medunjanin","Bosnia and Herzegovina",1985-03-08,29,"Bosnia and Herzegovina","Sarajevo","Midfielder",187,83
+"Bosnia-Herzegovina","Anel","Had<U+017E>i<U+0107>","Bosnia and Herzegovina",1989-08-16,24,"Bosnia and Herzegovina","Velika Kladusa","Midfielder",184,73
+"Bosnia-Herzegovina","Samir","Muratovic","Bosnia and Herzegovina",1976-02-25,38,"Bosnia and Herzegovina","Zvornik","Midfielder",185,85
+"Bosnia-Herzegovina","Sejad","Salihovi<U+0107>","Bosnia and Herzegovina",1984-10-08,29,"Bosnia and Herzegovina","Gornji <U+0160>epak","Midfielder",182,79
+"Bosnia-Herzegovina","Miralem","Pjani<U+0107>","Bosnia and Herzegovina",1990-04-02,24,"Bosnia and Herzegovina","Tuzla","Midfielder",180,68
+"Bosnia-Herzegovina","Senad","Luli<U+0107>","Bosnia and Herzegovina",1986-01-18,28,"Bosnia and Herzegovina","Motar","Midfielder",183,75
+"Bosnia-Herzegovina","Senijad","Ibri<U+010D>i<U+0107>","Bosnia and Herzegovina",1985-09-26,28,"Bosnia and Herzegovina","Kotor Varo<U+0161>","Midfielder",181,81
+"Bosnia-Herzegovina","Izet","Hajrovi<U+0107>","Bosnia and Herzegovina",1991-08-04,22,"Switzerland","Brugg","Midfielder",177,71
+"Bosnia-Herzegovina","Edin","Vi<U+0161><U+0107>a","Bosnia and Herzegovina",1990-02-17,24,"Bosnia and Herzegovina","Olovo","Midfielder",172,NA
+"Bosnia-Herzegovina","Tino","Su<U+0161>i<U+0107>","Bosnia and Herzegovina",1992-02-13,22,"Belgium",NA,"Midfielder",185,77
+"Bosnia-Herzegovina","Vedad","Ibi<U+0161>evi<U+0107>","Bosnia and Herzegovina",1984-08-06,29,"Bosnia and Herzegovina","Vlasenica","Attacker",188,82
+"Bosnia-Herzegovina","Edin","D<U+017E>eko","Bosnia and Herzegovina",1986-03-17,28,"Bosnia and Herzegovina","Sarajevo","Attacker",193,80
+"Germany","Roman","Weidenfeller","Germany",1980-08-06,33,"Germany","Diez","Goalkeeper",190,90
+"Germany","Manuel","Neuer","Germany",1986-03-27,28,"Germany","Gelsenkirchen","Goalkeeper",193,92
+"Germany","Ron-Robert","Zieler","Germany",1989-02-12,25,"Germany","K<U+00F6>ln","Goalkeeper",188,83
+"Germany","Marc-Andr<U+00E9>","ter Stegen","Germany",1992-04-30,22,"Germany","M<U+00F6>nchengladbach","Goalkeeper",189,85
+"Germany","Marcell","Jansen","Germany",1985-11-04,28,"Germany","M<U+00F6>nchengladbach","Defender",191,89
+"Germany","Philipp","Lahm","Germany",1983-11-11,30,"Germany","M<U+00FC>nchen","Defender",170,66
+"Germany","Per","Mertesacker","Germany",1984-09-29,29,"Germany","Hannover","Defender",196,85
+"Germany","J<U+00E9>r<U+00F4>me","Boateng","Germany",1988-09-03,25,"Germany","Berlin","Defender",192,90
+"Germany","Benedikt","H<U+00F6>wedes","Germany",1988-02-29,26,"Germany","Haltern","Defender",187,80
+"Germany","Mats ","Hummels","Germany",1988-12-16,25,"Germany","Bergisch Gladbach","Defender",192,92
+"Germany","Marcel","Schmelzer","Germany",1988-01-22,26,"Germany","Magdeburg","Defender",181,74
+"Germany","Sebastian","Jung","Germany",1990-06-22,23,"Germany","K<U+00F6>nigstein","Defender",179,68
+"Germany","Oliver","Sorg","Germany",1990-05-29,24,"Germany","Engen","Defender",175,69
+"Germany","Shkodran","Mustafi","Germany",1992-04-17,22,"Germany","Bad Hersfeld","Defender",184,82
+"Germany","Erik","Durm","Germany",1992-05-12,22,"Germany","Pirmasens","Defender",180,NA
+"Germany","Antonio","R<U+00FC>diger","Germany",1993-03-03,21,"Germany","Berlin","Defender",190,85
+"Germany","Matthias","Ginter","Germany",1994-01-19,20,"Germany","Freiburg","Defender",188,85
+"Germany","Christian","G<U+00FC>nter","Germany",1993-02-28,21,"Germany","Villingen","Defender",184,81
+"Germany","Bastian","Schweinsteiger","Germany",1984-08-01,29,"Germany","Kolbermoor","Midfielder",183,79
+"Germany","Mesut","<U+00D6>zil","Germany",1988-10-15,25,"Germany","Gelsenkirchen","Midfielder",180,70
+"Germany","Sami","Khedira","Germany",1987-04-04,27,"Germany","Stuttgart","Midfielder",189,83
+"Germany","Toni","Kroos","Germany",1990-01-04,24,"Germany","Greifswald","Midfielder",182,78
+"Germany","Sebastian","Rudy","Germany",1990-02-28,24,"Germany","Villingen-Schwenningen","Midfielder",179,73
+"Germany","Marco","Reus","Germany",1989-05-31,25,"Germany","Dortmund","Midfielder",182,74
+"Germany","Kevin","Gro<U+00DF>kreutz","Germany",1988-07-19,25,"Germany","Dortmund","Midfielder",186,77
+"Germany","Andr<U+00E9>","Hahn","Germany",1990-08-13,23,"Germany","Otterndorf","Midfielder",185,79
+"Germany","Mario","G<U+00F6>tze","Germany",1992-06-03,22,"Germany","Memmingen","Midfielder",176,64
+"Germany","Christoph","Kramer","Germany",1991-02-19,23,"Germany","Solingen","Midfielder",189,82
+"Germany","Maximilian","Arnold","Germany",1994-05-27,20,"Germany","Riesa","Midfielder",184,NA
+"Germany","Julian","Draxler","Germany",1993-09-20,20,"Germany","Gladbeck","Midfielder",185,74
+"Germany","Leon ","Goretzka","Germany",1995-02-06,19,"Germany","Bochum","Midfielder",189,76
+"Germany","Max ","Meyer","Germany",1995-09-18,18,"Germany","Oberhausen","Midfielder",169,65
+"Germany","Miroslav","Klose","Germany",1978-06-09,35,"Poland","Opole","Attacker",184,84
+"Germany","Lukas","Podolski","Germany",1985-06-04,29,"Poland","Gliwice","Attacker",182,83
+"Germany","Thomas","M<U+00FC>ller","Germany",1989-09-13,24,"Germany","Weilheim","Attacker",186,75
+"Germany","Andr<U+00E9>","Sch<U+00FC>rrle","Germany",1990-11-06,23,"Germany","Ludwigshafen","Attacker",183,74
+"Germany","Kevin","Volland","Germany",1992-07-30,21,"Germany","Marktoberdorf","Attacker",179,82
+"Portugal","Rui Pedro","dos Santos Patr<U+00ED>cio","Portugal",1988-02-15,26,"Portugal","Marrazes","Goalkeeper",190,84
+"Portugal","Ant<U+00F3>nio Alberto","Bastos Pimparel","Portugal",1982-05-01,32,"Portugal","Lisboa","Goalkeeper",180,80
+"Portugal","Eduardo","dos Reis Carvalho","Portugal",1982-09-19,31,"Portugal","Mirandela","Goalkeeper",187,84
+"Portugal","Anthony","Lopes","Portugal",1990-10-01,23,"France","Givors","Goalkeeper",184,81
+"Portugal","Ricardo Miguel","Moreira da Costa","Portugal",1981-05-16,33,"Portugal","Vila Nova de Gaia","Defender",183,80
+"Portugal","Bruno Eduardo","Regufe Alves","Portugal",1981-11-27,32,"Portugal","P<U+00F3>voa de Varzim","Defender",189,83
+"Portugal","F<U+00E1>bio Alexandre","da Silva Coentr<U+00E3>o","Portugal",1988-03-11,26,"Portugal","Vila do Conde","Defender",178,66
+"Portugal","Jo<U+00E3>o Pedro","da Silva Pereira","Portugal",1984-02-25,30,"Portugal","Lisboa","Defender",172,64
+"Portugal","Rolando Jorge","Pires da Fonseca","Portugal",1985-08-31,28,"Cape Verde Islands","S<U+00E3>o Vicente","Defender",189,77
+"Portugal","Vitorino Gabriel ","Pacheco Antunes","Portugal",1987-04-01,27,"Portugal","Freamunde","Defender",175,69
+"Portugal","Hugo Miguel","Almeida Costa Lopes","Portugal",1986-12-19,27,"Portugal","Lisboa","Defender",182,83
+"Portugal","Luis Carlos","Novo Neto","Portugal",1988-05-26,26,"Portugal","P<U+00F3>voa do Varzim","Defender",187,71
+"Portugal","Raul Jos<U+00E9>","Trindade Meireles","Portugal",1983-03-17,31,"Portugal","Porto","Midfielder",179,70
+"Portugal","Lu<U+00ED>s Carlos","Almeida da Cunha","Portugal",1986-11-17,27,"Cape Verde Islands","Praia","Midfielder",176,66
+"Portugal","Miguel Lu<U+00ED>s","Pinto Veloso","Portugal",1986-05-11,28,"Portugal","Coimbra","Midfielder",180,79
+"Portugal","Jo<U+00E3>o Filipe","Iria Santos Moutinho","Portugal",1986-09-08,27,"Portugal","Portim<U+00E3>o","Midfielder",170,61
+"Portugal","Ruben Filipe","Marques Amorim","Portugal",1985-01-27,29,"Portugal","Lisboa","Midfielder",182,72
+"Portugal","Adelino Andr<U+00E9> ","Vieira Freitas","Portugal",1986-01-24,28,"Portugal","Guimar<U+00E3>es ","Midfielder",172,NA
+"Portugal","Andr<U+00E9>","Gomes Magalhaes de Almeida","Portugal",1990-09-10,23,"Portugal","Lisboa","Midfielder",186,85
+"Portugal","Josue Filipe","Soares Pesqueira","Portugal",1990-09-17,23,"Portugal",NA,"Midfielder",NA,NA
+"Portugal","William","Silva Carvalho","Portugal",1992-04-07,22,"Angola","Luanda","Midfielder",187,NA
+"Portugal","Rafael Alexandre Fernandes","Ferreira da Silva","Portugal",1993-05-17,21,"Portugal","Vila Franca de Xira","Midfielder",NA,NA
+"Portugal","Cristiano Ronaldo","dos Santos Aveiro","Portugal",1985-02-05,29,"Portugal","Funchal","Attacker",186,84
+"Portugal","H<U+00E9>lder Manuel","Marques Postiga","Portugal",1982-08-02,31,"Portugal","Povoa de Varzim","Attacker",182,79
+"Portugal","Hugo Miguel","Pereira de Almeida","Portugal",1984-05-23,30,"Portugal","Figueira da Foz","Attacker",191,79
+"Portugal","Arnaldo Edi","Lopes da Silva","Portugal",1982-07-07,31,"Portugal","Aveiro","Attacker",182,72
+"Portugal","Silvestre Manuel","Gon<U+00E7>alves Varela","Portugal",1985-02-02,29,"Portugal","Almada","Attacker",180,NA
+"Portugal","<U+00C9>derzito Ant<U+00F3>nio","Macedo Lopes","Portugal",1987-12-22,26,"Guinea-Bissau","Bissau","Attacker",188,81
+"Portugal","Ivan Ricardo Neves","Abreu Cavaleiro","Portugal",1993-10-18,20,"Portugal","Vila Franca de Xira","Attacker",175,72
+"Iran","Rahman","Ahmadi","Iran",1980-07-30,33,"Iran","Tehran","Goalkeeper",NA,NA
+"Iran","Ali Reza","Haghighi","Iran",1988-05-02,26,"Iran","Tehran","Goalkeeper",193,80
+"Iran","Sosha","Makani","Iran",1986-11-18,27,"Iran","Bandar Anzali","Goalkeeper",NA,NA
+"Iran","Daniel","Davari","Iran",1988-01-06,26,"Germany","Gie<U+00DF>en","Goalkeeper",192,85
+"Iran","Seyed Jalal","Hosseini","Iran",1982-02-03,32,"Iran","Bandar Anzali","Defender",178,84
+"Iran","Hossain","Mahini","Iran",1986-09-16,27,"Iran","Bushehr","Defender",NA,NA
+"Iran","Pejman","Montazeri","Iran",1983-09-06,30,"Iran","Ahvaz","Defender",NA,NA
+"Iran","Hashem","Beikzadeh","Iran",1984-01-22,30,"Iran","Shiraz","Defender",NA,NA
+"Iran","Amir Hossein","Sadeghi","Iran",1981-09-06,32,"Iran","Tahran","Defender",NA,NA
+"Iran","Khosro","Heydari","Iran",1983-09-14,30,"Iran","Tehran","Defender",174,NA
+"Iran","Seyed Ahmad","Alenemeh","Iran",1982-10-20,31,"Iran","Ahvaz","Defender",186,NA
+"Iran","Steven Mehrdad","Beitashour","Iran",1987-02-01,27,"USA","San Jose","Defender",178,NA
+"Iran","Javad","Nekounam","Iran",1980-09-07,33,"Iran","Shar Rey","Midfielder",186,78
+"Iran","Masoud","Shojaei Soleimani","Iran",1984-09-06,29,"Iran","Shiraz","Midfielder",184,73
+"Iran","Ashkan","Dejagah","Iran",1986-07-05,27,"Iran","Teheran","Midfielder",181,74
+"Iran","Andranik","Timotian-Samarani","Iran",1983-03-06,31,"Iran","Tehran","Midfielder",180,73
+"Iran","Ehsan","Hajsafi","Iran",1990-02-25,24,"Iran","Kashan","Midfielder",176,74
+"Iran","Mojtaba","Jabari Kordgehslaghi","Iran",1983-06-16,30,"Iran","Robat Karim","Midfielder",NA,NA
+"Iran","Mehrdad","Pooladi","Iran",1987-02-26,27,"Iran","Karaj","Midfielder",181,NA
+"Iran","Bakhtiar","Rahmani","Iran",1991-09-23,22,"Iran","Kermanshah","Midfielder",178,NA
+"Iran","Ghasem","Hadadifar","Iran",1983-07-12,30,"Iran","Esfahan","Midfielder",NA,NA
+"Iran","Reza","Haghighi","Iran",1989-02-01,25,"Iran","Mashhad","Midfielder",NA,NA
+"Iran","Yaghoub","Karimi","Iran",1991-08-31,22,"Iran",NA,"Midfielder",NA,NA
+"Iran","Mohammad Reza","Khanzadeh","Iran",1991-05-11,23,"Iran","Tehran","Midfielder",NA,NA
+"Iran","Ali","Karimi","Iran",1994-02-11,20,"Iran",NA,"Midfielder",NA,NA
+"Iran","Reza","Ghoochannejhad Nournia","Iran",1987-09-20,26,"Iran","Mashhad","Attacker",180,81
+"Iran","Karim","Ansarifard","Iran",1990-04-03,24,"Iran","Ardabil","Attacker",181,77
+"Iran","Mohammad Reza","Khalatbari Limaki","Iran",1983-09-14,30,"Iran","Ramsar","Attacker",NA,NA
+"Iran","Sardar","Azmoun","Iran",1995-01-01,19,"Iran","Gonbad","Attacker",178,72
+"Iran","Alireza","Jahanbakhsh","Iran",1993-08-11,20,"Iran","Jirandeh","Attacker",180,NA
+"Iran","Mehdi","Sharifi","Iran",1992-08-16,21,"Iran","Isfahan","Attacker",NA,NA
+"Nigeria","Vincent","Enyeama","Nigeria",1982-08-29,31,"Nigeria","Kaduna","Goalkeeper",189,79
+"Nigeria","Augustine Amamchukwu","Ejide","Nigeria",1984-04-08,30,"Nigeria","Onitsha","Goalkeeper",190,90
+"Nigeria","Daniel","Akpeyi","Nigeria",1986-03-08,28,"Nigeria","Nnewi","Goalkeeper",186,NA
+"Nigeria","Chigozie","Agbim","Nigeria",1984-11-28,29,"Nigeria","Gombe","Goalkeeper",187,NA
+"Nigeria","Joseph Phillip","Yobo","Nigeria",1980-09-06,33,"Nigeria","Kano","Defender",188,76
+"Nigeria","Elderson Uwa","Echiejile","Nigeria",1988-01-20,26,"Nigeria","Benin City","Defender",184,76
+"Nigeria","Leon-Aderemi","Balogun","Nigeria",1988-06-28,25,"Germany","Berlin","Defender",190,81
+"Nigeria","Efetobore","Ambrose Emuobo","Nigeria",1988-10-18,25,"Nigeria","Kaduna","Defender",190,70
+"Nigeria","Kenneth Josiah","Omeruo","Nigeria",1993-10-17,20,"Nigeria","Kaduna","Defender",168,67
+"Nigeria","Godfrey","Oboabona Itama","Nigeria",1990-09-16,23,"Nigeria","Akure","Defender",186,82
+"Nigeria","Azubuike","Egwuekwe","Nigeria",1989-07-16,24,"Nigeria","Lafia","Defender",179,76
+"Nigeria","Juwon","Oshaniwa","Nigeria",1990-09-14,23,"Nigeria","Ilorin","Defender",176,69
+"Nigeria","Ebenezer Odunlami","Kunle","Nigeria",1990-03-05,24,"Nigeria",NA,"Defender",NA,NA
+"Nigeria","Abdullahi","Shehu","Nigeria",1993-03-12,21,"Nigeria",NA,"Defender",NA,NA
+"Nigeria","John Michael","Nchekwube Obinna","Nigeria",1987-04-22,27,"Nigeria","Jos","Midfielder",186,86
+"Nigeria","Victor","Moses","Nigeria",1990-12-12,23,"Nigeria","Kaduna","Midfielder",177,75
+"Nigeria","Emmanuel Nosakhare","Igiebor","Nigeria",1990-11-09,23,"Nigeria","Abuja","Midfielder",182,79
+"Nigeria","Joel","Chukwuma Obi","Nigeria",1991-05-22,23,"Nigeria","Lagos","Midfielder",177,72
+"Nigeria","Ogenyi Eddy","Onazi","Nigeria",1992-12-25,21,"Nigeria","Benue","Midfielder",173,73
+"Nigeria","Ramon Olamilekan","Azeez","Nigeria",1992-12-12,21,"Nigeria","Abuja","Midfielder",169,67
+"Nigeria","Reuben Shalu","Gabriel","Nigeria",1990-09-25,23,"Nigeria","Kaduna","Midfielder",195,86
+"Nigeria","Michael","Babatunde","Nigeria",1992-12-24,21,"Nigeria",NA,"Midfielder",179,76
+"Nigeria","Christantus Ejike","Uzoenyi","Nigeria",1992-03-23,22,"Nigeria","Aba","Midfielder",168,66
+"Nigeria","Osazemwinde Peter","Odemwingie","Nigeria",1981-07-15,32,"Uzbekistan","Tashkent","Attacker",182,75
+"Nigeria","Shola","Ameobi","Nigeria",1981-10-12,32,"Nigeria","Zaria","Attacker",188,76
+"Nigeria","Victor","Obinna Nsofor","Nigeria",1987-03-25,27,"Nigeria","Jos","Attacker",182,80
+"Nigeria","Emmanuel","Emenike","Nigeria",1987-05-10,27,"Nigeria","Otuocha","Attacker",182,75
+"Nigeria","Michael","Uchebo","Nigeria",1990-02-03,24,"Nigeria","Enugu","Attacker",194,85
+"Nigeria","Ahmed","Musa","Nigeria",1992-10-14,21,"Nigeria","Jos","Attacker",170,62
+"Nigeria","Nnamdi","Oduamadi","Nigeria",1990-10-17,23,"Nigeria","Lagos","Attacker",175,65
+"Nigeria","Uche","Nwofor","Nigeria",1991-09-17,22,"Nigeria","Lagos","Attacker",184,NA
+"Nigeria","Imoh","Ezekiel","Nigeria",1993-10-24,20,"Nigeria","Lagos","Attacker",178,80
+"Ghana","Adam","Larsen Kwarasey","Ghana",1987-12-12,26,"Norway","Oslo","Goalkeeper",188,85
+"Ghana","Abdul Fatau","Dauda","Ghana",1985-04-06,29,"Ghana","Obuasi","Goalkeeper",180,77
+"Ghana","Stephen","Adams","Ghana",1989-09-28,24,"Ghana","Kumasi","Goalkeeper",186,81
+"Ghana","Harrison","Afful","Ghana",1986-07-24,27,"Ghana","Kumasi","Defender",168,58
+"Ghana","John","Boye","Ghana",1987-04-23,27,"Ghana","Accra","Defender",185,72
+"Ghana","Jonathan","Mensah","Ghana",1990-07-13,23,"Ghana","Accra","Defender",188,83
+"Ghana","David Nii","Addy","Ghana",1990-02-21,24,"Ghana","Prampram","Defender",180,73
+"Ghana","Jerry","Akaminko","Ghana",1988-05-02,26,"Ghana","Accra","Defender",183,75
+"Ghana","Samuel","Inkoom","Ghana",1989-06-01,25,"Ghana","Sekondi-Takoradi","Defender",179,75
+"Ghana","Daniel Tawiah","Opare","Ghana",1990-10-18,23,"Ghana","Accra","Defender",173,70
+"Ghana","Rashid","Sumaila","Ghana",1992-12-18,21,"Ghana","Cape Coast","Defender",196,NA
+"Ghana","Michael","Essien","Ghana",1982-12-03,31,"Ghana","Accra","Midfielder",177,85
+"Ghana","Sulley Ali","Muntari","Ghana",1984-08-27,29,"Ghana","Konongo","Midfielder",179,76
+"Ghana","Kevin-Prince","Boateng","Ghana",1987-03-06,27,"Germany","Berlin","Midfielder",185,86
+"Ghana","Kwadwo","Asamoah","Ghana",1988-12-09,25,"Ghana","Accra","Midfielder",178,78
+"Ghana","Albert Danquah","Adomah","Ghana",1987-12-13,26,"England","London","Midfielder",185,73
+"Ghana","Wakaso","Mubarak","Ghana",1990-07-25,23,"Ghana","Tamale","Midfielder",171,69
+"Ghana","Mohammed","Rabiu","Ghana",1989-12-31,24,"Ghana","Accra","Midfielder",187,70
+"Ghana","Emmanuel","Agyemang-Badu","Ghana",1990-12-02,23,"Ghana","Seikwa","Midfielder",182,77
+"Ghana","Mishael","Akuffo","Ghana",1985-12-18,28,"Ghana","Tamale","Midfielder",178,NA
+"Ghana","Afriyie","Acquah","Ghana",1992-05-01,22,"Ghana","Accra","Midfielder",179,70
+"Ghana","Richard","Mpong","Ghana",1990-07-04,23,"Ghana","Tarkwa","Midfielder",178,NA
+"Ghana","Asamoah","Gyan","Ghana",1985-11-22,28,"Ghana","Accra","Attacker",186,80
+"Ghana","Andr<U+00E9>","Ayew Pel<U+00E9>","Ghana",1989-12-17,24,"France","Lille","Attacker",176,72
+"Ghana","Jordan","Ayew","Ghana",1991-09-11,22,"France","Marseille","Attacker",182,80
+"Ghana","Abdul Majeed","Waris","Ghana",1991-09-19,22,"Ghana","Accra","Attacker",172,71
+"Ghana","Jeffrey ","Schlupp","Ghana",1992-12-23,21,"Germany","Hamburg","Attacker",NA,NA
+"Ghana","Christian Twasam","Atsu","Ghana",1992-01-10,22,"Ghana","Ada Foah","Attacker",172,68
+"Ghana","David","Accam","Ghana",1990-09-28,23,"Ghana",NA,"Attacker",NA,NA
+"Ghana","Sulley","Mohammed","Ghana",1995-12-07,18,"Ghana",NA,"Attacker",NA,NA
+"United States","Nick","Rimando","USA",1979-06-17,34,"USA","Montclair","Goalkeeper",178,NA
+"United States","Sean ","Johnson","USA",1989-05-31,25,"USA","Atlanta","Goalkeeper",191,98
+"United States","Bill","Hamid","USA",1990-11-25,23,"USA","Annandale","Goalkeeper",191,102
+"United States","Tim","Howard","USA",1979-03-06,35,"USA","North Brunswick","Goalkeeper",191,88
+"United States","Bradley","Guzan","USA",1984-09-09,29,"USA","Evergreen Park","Goalkeeper",193,95
+"United States","DeAndre ","Yedlin","USA",1993-07-09,20,"USA","Seattle","Defender",176,NA
+"United States","Omar","Gonzalez","USA",1988-10-11,25,"USA","Dallas","Defender",196,95
+"United States","Matt","Besler","USA",1987-02-11,27,"USA","Kansas City","Defender",183,77
+"United States","Tony","Beltran","USA",1987-10-11,26,"USA","Claremont","Defender",173,NA
+"United States","Michael","Parkhurst","USA",1984-01-24,30,"USA","Providence","Defender",182,72
+"United States","Clarence","Goodson IV","USA",1982-05-17,32,"USA","Alexandria","Defender",193,77
+"United States","Oguchi Chijioke","Onyewu","USA",1982-05-13,32,"USA","Olney","Defender",194,95
+"United States","DaMarcus","Beasley","USA",1982-05-24,32,"USA","Fort Wayne","Defender",173,66
+"United States","Edgar Eduardo","Castillo Carrillo","USA",1986-10-08,27,"USA","Nuevo M<U+00E9>xico","Defender",170,78
+"United States","Fabian","Johnson","USA",1987-12-11,26,"Germany","M<U+00FC>nchen","Defender",183,74
+"United States","Geoff","Cameron","USA",1985-07-11,28,"USA","Attleboro","Defender",191,NA
+"United States","Timothy","Chandler","USA",1990-03-29,24,"Germany","Frankfurt am Main","Defender",186,81
+"United States","Will","Packwood","USA",1993-05-21,21,"USA",NA,"Defender",NA,NA
+"United States","John Anthony","Brooks","USA",1993-01-28,21,"Germany","Berlin","Defender",193,78
+"United States","Michael","Bradley","USA",1987-07-31,26,"USA","Princeton","Midfielder",186,75
+"United States","Maurice","Edu","USA",1986-04-18,28,"USA","Fontana","Midfielder",183,77
+"United States","Brad","Davis","USA",1981-11-08,32,"USA","St. Charles","Midfielder",180,NA
+"United States","Kyle","Beckerman","USA",1982-04-23,32,"USA","Crofton","Midfielder",177,NA
+"United States","Luis","Gil","USA",1993-11-14,20,"USA","Garden Grove","Midfielder",173,NA
+"United States","Eddie","Johnson","USA",1984-03-31,30,"USA","Palm Coast","Midfielder",183,77
+"United States","Graham","Zusi","USA",1986-08-18,27,"USA","Orlando","Midfielder",178,73
+"United States","Jermaine","Jones","USA",1981-11-03,32,"Germany","Frankfurt am Main","Midfielder",184,81
+"United States","Benny","Feilhaber","USA",1985-01-19,29,"Brazil","Rio de Janeiro","Midfielder",175,68
+"United States","Jonathan","Spector","USA",1986-03-01,28,"USA","Arlington Heights","Midfielder",182,79
+"United States","Sacha","Klje<U+0161>tan","USA",1985-09-09,28,"USA","Huntington Beach","Midfielder",185,68
+"United States","Brad","Evans","USA",1985-04-20,29,"USA","Phoenix","Midfielder",185,77
+"United States","Dax","McCarty","USA",1987-04-30,27,"USA","Winter Park","Midfielder",175,NA
+"United States","Brek","Shea","USA",1990-02-28,24,"USA","Bryan","Midfielder",190,NA
+"United States","Daniel","Williams","USA",1989-03-08,25,"Germany","Karlsruhe","Midfielder",182,79
+"United States","Alfredo","Morales","USA",1990-05-12,24,"Germany","Berlin","Midfielder",183,74
+"United States","Mikkel","Morgenstar P<U+00E5>lss<U+00F8>nn Diskerud","USA",1990-10-02,23,"Norway","Oslo","Midfielder",184,71
+"United States","Alejandro","Bedoya","USA",1987-04-29,27,"USA","Englewood","Midfielder",178,73
+"United States","Eric","Alexander","USA",1988-04-14,26,"USA","Portage","Midfielder",185,NA
+"United States","Clint","Dempsey","USA",1983-03-09,31,"USA","Nacogdoches","Attacker",185,84
+"United States","Julian","Green","USA",1995-06-06,19,"USA","Tampa","Attacker",172,NA
+"United States","Landon ","Donovan","USA",1982-03-04,32,"USA","Ontario","Attacker",173,72
+"United States","Chris","Wondolowski","USA",1983-01-28,31,"USA","Danville","Attacker",185,NA
+"United States","Josmer Volmy ","Altidore","USA",1989-11-06,24,"USA","Livingston","Attacker",182,72
+"United States","Terrence ","Boyd","USA",1991-02-16,23,"Germany","Bremen","Attacker",188,82
+"United States","Aron","J<U+00F3>hannsson","USA",1990-11-10,23,"USA","Mobile","Attacker",184,70
+"United States","Juan Sebasti<U+00E1>n","Agudelo","USA",1992-11-23,21,"USA","Barnegat","Attacker",185,83
+"Belgium","Simon","Mignolet","Belgium",1988-03-06,26,"Belgium","Sint-Truiden","Goalkeeper",193,87
+"Belgium","Sammy","Bossut","Belgium",1985-08-11,28,"Belgium","Tielt","Goalkeeper",187,74
+"Belgium","Thibaut","Courtois","Belgium",1992-05-11,22,"Belgium","Bree","Goalkeeper",194,80
+"Belgium","Thomas","Kaminski","Belgium",1992-10-23,21,"Belgium","Dendermonde","Goalkeeper",188,70
+"Belgium","Koen","Casteels","Belgium",1992-06-25,21,"Belgium","Bonheiden","Goalkeeper",197,86
+"Belgium","Vincent","Kompany","Belgium",1986-04-10,28,"Belgium","Uccle","Defender",191,85
+"Belgium","Daniel","Van Buyten","Belgium",1978-02-07,36,"Belgium","Chimay","Defender",197,95
+"Belgium","Thomas","Vermaelen","Belgium",1985-11-14,28,"Belgium","Kapellen","Defender",180,75
+"Belgium","Jan","Vertonghen","Belgium",1987-04-24,27,"Belgium","Sint-Niklaas","Defender",189,79
+"Belgium","Anthony","Vanden Borre","Belgium",1987-10-24,26,"Congo DR","Likasi","Defender",190,78
+"Belgium","S<U+00E9>bastien","Pocognoli","Belgium",1987-08-01,26,"Belgium","Li<U+00E8>ge","Defender",182,72
+"Belgium","Nicolas","Lombaerts","Belgium",1985-03-20,29,"Belgium","Brugge","Defender",188,83
+"Belgium","Laurent","Ciman","Belgium",1985-08-05,28,"Belgium","Farciennes","Defender",180,65
+"Belgium","Toby","Alderweireld","Belgium",1989-03-02,25,"Belgium","Wilrijk","Defender",185,75
+"Belgium","Moussa Sidi Yaya","Demb<U+00E9>l<U+00E9>","Belgium",1987-07-16,26,"Belgium","Wilrijk","Midfielder",177,70
+"Belgium","Timmy","Simons","Belgium",1976-12-11,37,"Belgium","Diest","Midfielder",186,78
+"Belgium","Marouane","Fellaini-Bakkioui","Belgium",1987-11-22,26,"Belgium","Etterbeek","Midfielder",194,85
+"Belgium","Steven","Defour","Belgium",1988-04-15,26,"Belgium","Mechelen","Midfielder",174,65
+"Belgium","Axel Tomas","Witsel","Belgium",1989-01-12,25,"Belgium","Li<U+00E8>ge","Midfielder",183,73
+"Belgium","Radja","Nainggolan","Belgium",1988-05-04,26,"Belgium","Antwerpen","Midfielder",175,65
+"Belgium","Eden","Hazard","Belgium",1991-01-07,23,"Belgium","La Louvi<U+00E8>re","Midfielder",170,69
+"Belgium","Nacer","Chadli","Belgium",1989-08-02,24,"Belgium","Li<U+00E8>ge","Midfielder",187,80
+"Belgium","Kevin","De Bruyne","Belgium",1991-06-28,22,"Belgium","Drongen","Midfielder",180,68
+"Belgium","Adnan","Januzaj","Belgium",1995-02-05,19,"Belgium","Brussels","Midfielder",182,75
+"Belgium","Kevin","Mirallas","Belgium",1987-10-05,26,"Belgium","Li<U+00E8>ge","Attacker",178,72
+"Belgium","Dries","Mertens","Belgium",1987-05-06,27,"Belgium","Leuven","Attacker",169,61
+"Belgium","Christian","Benteke Liolo","Belgium",1990-12-03,23,"Congo DR","Kinshasa","Attacker",190,83
+"Belgium","Romelu Menama","Lukaku","Belgium",1993-05-13,21,"Belgium","Antwerpen","Attacker",191,94
+"Belgium","Divock","Okoth Origi","Belgium",1995-04-18,19,"Belgium","Oostende","Attacker",185,75
+"Algeria","Ra<U+00EF>s","M'Bolhi Ouhab","Algeria",1986-04-25,28,"France","Paris","Goalkeeper",189,82
+"Algeria","Azzedine","Doukha","Algeria",1986-08-05,27,"Algeria","Chettia","Goalkeeper",188,80
+"Algeria","Mohamed Amine","Zemmamouche","Algeria",1985-03-19,29,"Algeria","Mila","Goalkeeper",175,64
+"Algeria","C<U+00E9>dric","Si Mohamed","Algeria",1985-01-09,29,"France","Roanne","Goalkeeper",183,68
+"Algeria","Madjid","Bougherra","Algeria",1982-10-07,31,"France","Longvic","Defender",190,93
+"Algeria","Djamel Eddine","Mesbah","Algeria",1984-10-09,29,"Algeria","Zighoud Youcef","Defender",179,74
+"Algeria","Ali","Rial","Algeria",1980-03-26,34,"Algeria","Zemmouri","Defender",184,77
+"Algeria","Rafik","Halliche","Algeria",1986-09-02,27,"Algeria","Alger","Defender",187,77
+"Algeria","Essa<U+00EF>d","Belkalem","Algeria",1989-01-01,25,"Algeria","Mekla","Defender",192,88
+"Algeria","A<U+00EF>ssa","Mandi","Algeria",1991-10-22,22,"France","Ch<U+00E2>lons-en-Champagne","Defender",184,78
+"Algeria","Liassine","Cadamuro Benta<U+00EF>ba","Algeria",1988-03-05,26,"France","Toulouse","Defender",186,76
+"Algeria","Faouzi","Ghoulam","Algeria",1991-02-01,23,"France","Saint-Priest-en-Jarez","Defender",186,80
+"Algeria","Carl","Medjani","Algeria",1985-05-15,29,"France","Lyon","Midfielder",183,77
+"Algeria","Hassan","Yebda","Algeria",1984-05-14,30,"France","Saint-Maurice","Midfielder",187,77
+"Algeria","Foued","Kadir","Algeria",1983-12-05,30,"France","Martigues","Midfielder",179,73
+"Algeria","Mehdi","Mostefa Sbaa","Algeria",1983-08-30,30,"France","Dijon","Midfielder",181,82
+"Algeria","Yacine","Brahimi","Algeria",1990-02-08,24,"France","Paris","Midfielder",172,68
+"Algeria","Sofiane","Feghouli","Algeria",1989-12-26,24,"France","Levallois-Perret","Midfielder",178,71
+"Algeria","Abdelmoumene","Djabou","Algeria",1987-01-31,27,"Algeria",NA,"Midfielder",NA,NA
+"Algeria","Adl<U+00E8>ne","Gu<U+00E9>dioura","Algeria",1985-11-12,28,"France","La Roche-sur-Yon","Midfielder",186,81
+"Algeria","Mehdi","Lacen","Algeria",1984-03-15,30,"France","Versailles","Midfielder",176,74
+"Algeria","Saphir  Sliti","Ta<U+00EF>der","Algeria",1992-02-29,22,"France","Castres","Midfielder",180,73
+"Algeria","Zinedine","Ferhat","Algeria",1993-03-01,21,"Algeria",NA,"Midfielder",NA,NA
+"Algeria","Nabil","Bentaleb","Algeria",1994-11-24,19,"France","Lille","Midfielder",187,NA
+"Algeria","Rafik Zoheir","Djebbour","Algeria",1984-03-08,30,"France","Grenoble","Attacker",185,77
+"Algeria","Hilal El Arbi","Soudani","Algeria",1987-11-25,26,"Algeria","Chlef","Attacker",174,68
+"Algeria","Nabil","Ghilas","Algeria",1990-04-20,24,"France","Marseille","Attacker",NA,NA
+"Algeria","Islam","Slimani","Algeria",1988-06-18,25,"Algeria","Alger","Attacker",187,80
+"Algeria","Riyad","Mahrez","Algeria",1991-02-21,23,"France",NA,"Attacker",179,61
+"Russia","Igor","Akinfeev","Russia",1986-04-08,28,"Russia","Vidnoye","Goalkeeper",185,78
+"Russia","Sergei","Ryzhikov","Russia",1980-09-19,33,"Russia","Shebekino","Goalkeeper",194,83
+"Russia","Yuri","Lodygin","Russia",1990-05-26,24,"Russia","Vladimir","Goalkeeper",185,82
+"Russia","Vasiliy","Berezutski","Russia",1982-06-20,31,"Russia","Moskva","Defender",189,83
+"Russia","Sergei","Ignashevich","Russia",1979-07-14,34,"Russia","Moskva","Defender",186,82
+"Russia","Vladimir","Granat","Russia",1987-05-22,27,"Russia","Ulan-Ude","Defender",184,80
+"Russia","Aleksey","Kozlov","Russia",1986-12-25,27,"Russia","Petrozavodsk","Defender",182,75
+"Russia","Andrey","Eshchenko","Russia",1984-02-09,30,"Russia","Irkutsk","Defender",175,69
+"Russia","Georgi","Schennikov","Russia",1991-04-27,23,"Russia","Moskva","Defender",178,69
+"Russia","Evgeny","Makeev","Russia",1989-07-24,24,"Russia","Cherepovets","Defender",182,70
+"Russia","Andrey","Semenov","Russia",1989-03-24,25,"Russia","Moskva","Defender",190,86
+"Russia","Yuri","Zhirkov","Russia",1983-08-20,30,"Russia","Tambov","Midfielder",185,75
+"Russia","Dmitri","Kombarov","Russia",1987-01-22,27,"Russia","Moskva","Midfielder",181,69
+"Russia","Alexandr","Samedov","Russia",1984-07-19,29,"Russia","Moskva","Midfielder",178,74
+"Russia","Roman","Shirokov","Russia",1981-07-06,32,"Russia","Dedovsk","Midfielder",187,83
+"Russia","Alexander","Ryazantsev","Russia",1986-09-05,27,"Russia","Moskva","Midfielder",176,70
+"Russia","Viktor","Faizulin","Russia",1986-04-22,28,"Russia","Nakhodka","Midfielder",176,72
+"Russia","Igor","Denisov","Russia",1984-05-17,30,"Russia","St. Petersburg","Midfielder",176,70
+"Russia","Aleksey","Ionov","Russia",1989-02-18,25,"Russia","Kingisepp","Midfielder",177,68
+"Russia","Denis","Glushakov","Russia",1987-01-27,27,"Russia","Millerovo","Midfielder",178,72
+"Russia","Oleg","Shatov","Russia",1990-07-29,23,"Russia","Nizhny Tagil","Midfielder",173,64
+"Russia","Alan","Dzagoev","Russia",1990-06-17,23,"Russia","Beslan","Midfielder",179,70
+"Russia","Pavel","Mogilevets","Russia",1993-01-25,21,"Russia","Kingisepp","Midfielder",183,70
+"Russia","Alexander","Kerzhakov","Russia",1982-11-27,31,"Russia","Kingisepp","Attacker",175,67
+"Russia","Fyodor","Smolov","Russia",1990-02-09,24,"Russia","Saratov","Attacker",187,80
+"Russia","Aleksandr","Kokorin","Russia",1991-03-19,23,"Russia","Valuyki","Attacker",183,77
+"Russia","Maksim","Kanunnikov","Russia",1991-07-14,22,"Russia","Nizhny Tagil","Attacker",183,74
+"Russia","Denis","Cheryshev","Russia",1990-12-26,23,"Russia","Nizhny Novgorod","Attacker",179,74
+"Korea Republic","Sung-Ryong","Jung","Korea Republic",1985-07-04,28,"Korea Republic","Jeju","Goalkeeper",189,85
+"Korea Republic","Beom-Young","Lee","Korea Republic",1989-04-02,25,"Korea Republic","Seoul","Goalkeeper",194,90
+"Korea Republic","Seung-Gyu","Kim","Korea Republic",1990-09-30,23,"Korea Republic",NA,"Goalkeeper",187,76
+"Korea Republic","Jin-Hyeon","Kim","Korea Republic",1987-07-06,26,"Korea Republic",NA,"Goalkeeper",192,82
+"Korea Republic","Min-Soo","Kang","Korea Republic",1986-02-14,28,"Korea Republic","Goyang","Defender",186,76
+"Korea Republic","Chang-Soo","Kim","Korea Republic",1985-09-12,28,"Korea Republic","Busan","Defender",178,71
+"Korea Republic","Ji-Nam","Lee","Korea Republic",1984-11-21,29,"Korea Republic","Jeonju","Defender",183,68
+"Korea Republic","Joo-Ho","Park","Korea Republic",1987-01-16,27,"Korea Republic","Seoul","Defender",176,69
+"Korea Republic","Tae-Hwi","Kwak","Korea Republic",1981-07-08,32,"Korea Republic","Chilgok","Defender",186,85
+"Korea Republic","Suk-Young","Yoon","Korea Republic",1990-02-13,24,"Korea Republic","Suwon","Defender",182,74
+"Korea Republic","Young-Gwon","Kim","Korea Republic",1990-02-27,24,"Korea Republic","Jeonju","Defender",186,74
+"Korea Republic","Jeong-Ho","Hong","Korea Republic",1989-08-12,24,"Korea Republic","Jeju","Defender",186,74
+"Korea Republic","Jin-Su","Kim","Korea Republic",1992-06-13,21,"Korea Republic",NA,"Defender",176,67
+"Korea Republic","Dae-Ho","Kim","Korea Republic",1988-05-15,26,"Korea Republic",NA,"Defender",180,78
+"Korea Republic","Tae-Hwan","Kim","Korea Republic",1989-07-24,24,"Korea Republic",NA,"Defender",179,71
+"Korea Republic","Joo-Young","Kim","Korea Republic",1988-07-09,25,"Korea Republic","Seoul","Defender",184,80
+"Korea Republic","Yong","Lee","Korea Republic",1986-12-24,27,"Korea Republic",NA,"Defender",180,74
+"Korea Republic","Jin-Po","Park","Korea Republic",1987-08-13,26,"Korea Republic",NA,"Defender",173,72
+"Korea Republic","Seok-Ho","Hwang","Korea Republic",1989-06-27,24,"Korea Republic",NA,"Defender",182,80
+"Korea Republic","Ho","Lee","Korea Republic",1984-10-22,29,"Korea Republic","Korea Republic","Midfielder",182,75
+"Korea Republic","Jin-Hyung","Song","Korea Republic",1987-08-13,26,"Korea Republic","Seoul","Midfielder",176,69
+"Korea Republic","Dae-Sung","Ha","Korea Republic",1985-03-02,29,"Korea Republic",NA,"Midfielder",182,75
+"Korea Republic","Sung-Yong","Ki","Korea Republic",1989-01-24,25,"Korea Republic","Gwangju","Midfielder",187,79
+"Korea Republic","Chung-Yong","Lee","Korea Republic",1988-07-02,25,"Korea Republic","Seoul","Midfielder",180,69
+"Korea Republic","Yo-Han","Ko","Korea Republic",1988-03-10,26,"Korea Republic","Masan","Midfielder",170,65
+"Korea Republic","Tae-Hee","Nam","Korea Republic",1991-07-03,22,"Korea Republic","Busan","Midfielder",174,72
+"Korea Republic","Min-Woo","Kim","Korea Republic",1990-02-25,24,"Korea Republic","Seoul","Midfielder",172,69
+"Korea Republic","Ja-Cheol","Koo","Korea Republic",1989-02-27,25,"Korea Republic","Chungju","Midfielder",183,73
+"Korea Republic","Bo-Kyung","Kim","Korea Republic",1989-10-06,24,"Korea Republic","Seoul","Midfielder",178,73
+"Korea Republic","Jong-Woo","Park","Korea Republic",1989-03-10,25,"Korea Republic",NA,"Midfielder",180,74
+"Korea Republic","Kook-Young","Han","Korea Republic",1990-04-19,24,"Korea Republic","Korea Republic","Midfielder",183,73
+"Korea Republic","Ki-Hee","Kim","Korea Republic",1989-07-13,24,"Korea Republic",NA,"Midfielder",187,80
+"Korea Republic","Seung-Ki","Lee","Korea Republic",1988-06-02,26,"Korea Republic",NA,"Midfielder",177,67
+"Korea Republic","Myeong-Ju","Lee","Korea Republic",1990-04-24,24,"Korea Republic",NA,"Midfielder",176,72
+"Korea Republic","Chu-Young","Park","Korea Republic",1985-07-10,28,"Korea Republic","Daegu","Attacker",182,75
+"Korea Republic","Keun-Ho","Lee","Korea Republic",1985-04-11,29,"Korea Republic","Incheon","Attacker",176,71
+"Korea Republic","Ki-Hun","Yeom","Korea Republic",1983-03-30,31,"Korea Republic","Haenam, Jeonnam","Attacker",181,76
+"Korea Republic","Shin-Wook","Kim","Korea Republic",1988-04-14,26,"Korea Republic",NA,"Attacker",196,93
+"Korea Republic","Heung-Min","Son","Korea Republic",1992-07-08,21,"Korea Republic","Chuncheon","Attacker",183,76
+"Korea Republic","Dong-Won","Ji","Korea Republic",1991-05-28,23,"Korea Republic","Jeju","Attacker",187,78
